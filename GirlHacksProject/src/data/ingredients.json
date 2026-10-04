@@ -1,0 +1,2621 @@
+{
+  "ingredients": [
+    {
+      "name": "water",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0
+    },
+    {
+      "name": "salt",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.02
+    },
+    {
+      "name": "black pepper",
+      "aliases": [
+        "pepper"
+      ],
+      "category": "spices",
+      "est_price": 0.05
+    },
+    {
+      "name": "cooking oil",
+      "aliases": [
+        "vegetable oil for cooking"
+      ],
+      "category": "pantry",
+      "est_price": 0.1
+    },
+    {
+      "name": "olive oil",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.25
+    },
+    {
+      "name": "onion",
+      "aliases": [
+        "yellow onion",
+        "brown onion"
+      ],
+      "category": "produce",
+      "est_price": 0.25
+    },
+    {
+      "name": "red onion",
+      "aliases": [
+        "purple onion"
+      ],
+      "category": "produce",
+      "est_price": 0.35
+    },
+    {
+      "name": "garlic",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.1
+    },
+    {
+      "name": "scallion",
+      "aliases": [
+        "green onion",
+        "spring onion"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "shallot",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "ginger",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.2
+    },
+    {
+      "name": "carrot",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.15
+    },
+    {
+      "name": "celery",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.2
+    },
+    {
+      "name": "bell pepper",
+      "aliases": [
+        "capsicum"
+      ],
+      "category": "produce",
+      "est_price": 0.75
+    },
+    {
+      "name": "red bell pepper",
+      "aliases": [
+        "red capsicum"
+      ],
+      "category": "produce",
+      "est_price": 0.85
+    },
+    {
+      "name": "green bell pepper",
+      "aliases": [
+        "green capsicum"
+      ],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "jalapeno",
+      "aliases": [
+        "jalapeño"
+      ],
+      "category": "produce",
+      "est_price": 0.15
+    },
+    {
+      "name": "serrano pepper",
+      "aliases": [
+        "serrano"
+      ],
+      "category": "produce",
+      "est_price": 0.15
+    },
+    {
+      "name": "tomato",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "cherry tomato",
+      "aliases": [
+        "grape tomato"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "potato",
+      "aliases": [
+        "russet potato"
+      ],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "yukon gold potato",
+      "aliases": [
+        "gold potato"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "sweet potato",
+      "aliases": [
+        "yam"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "spinach",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "kale",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "lettuce",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "romaine",
+      "aliases": [
+        "romaine lettuce"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "arugula",
+      "aliases": [
+        "rocket"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "cabbage",
+      "aliases": [
+        "green cabbage"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "red cabbage",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.35
+    },
+    {
+      "name": "bok choy",
+      "aliases": [
+        "pak choi"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "napa cabbage",
+      "aliases": [
+        "chinese cabbage"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "broccoli",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "cauliflower",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "zucchini",
+      "aliases": [
+        "courgette"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "eggplant",
+      "aliases": [
+        "aubergine"
+      ],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "cucumber",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "mushroom",
+      "aliases": [
+        "button mushrooms",
+        "cremini mushrooms"
+      ],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "portobello mushroom",
+      "aliases": [
+        "portobello"
+      ],
+      "category": "produce",
+      "est_price": 1.2
+    },
+    {
+      "name": "shiitake mushroom",
+      "aliases": [
+        "shiitake"
+      ],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "green beans",
+      "aliases": [
+        "string beans"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "peas",
+      "aliases": [
+        "green peas"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "corn",
+      "aliases": [
+        "sweet corn"
+      ],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "asparagus",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.9
+    },
+    {
+      "name": "brussels sprouts",
+      "aliases": [
+        "brussel sprouts"
+      ],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "avocado",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "lemon",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "lime",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "orange",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "apple",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "banana",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "strawberry",
+      "aliases": [
+        "strawberries"
+      ],
+      "category": "produce",
+      "est_price": 0.8
+    },
+    {
+      "name": "blueberry",
+      "aliases": [
+        "blueberries"
+      ],
+      "category": "produce",
+      "est_price": 0.9
+    },
+    {
+      "name": "raspberry",
+      "aliases": [
+        "raspberries"
+      ],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "mango",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "pineapple",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1.5
+    },
+    {
+      "name": "grape",
+      "aliases": [
+        "grapes"
+      ],
+      "category": "produce",
+      "est_price": 0.8
+    },
+    {
+      "name": "watermelon",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1.5
+    },
+    {
+      "name": "peach",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.8
+    },
+    {
+      "name": "pear",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "plum",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "cherry",
+      "aliases": [
+        "cherries"
+      ],
+      "category": "produce",
+      "est_price": 1.2
+    },
+    {
+      "name": "kiwi",
+      "aliases": [
+        "kiwifruit"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "cantaloupe",
+      "aliases": [
+        "rockmelon"
+      ],
+      "category": "produce",
+      "est_price": 1.5
+    },
+    {
+      "name": "coconut",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "lemongrass",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "kaffir lime leaves",
+      "aliases": [
+        "makrut lime leaves"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh basil",
+      "aliases": [
+        "basil"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "fresh cilantro",
+      "aliases": [
+        "cilantro",
+        "coriander",
+        "coriander leaves"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh parsley",
+      "aliases": [
+        "parsley"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh mint",
+      "aliases": [
+        "mint"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh dill",
+      "aliases": [
+        "dill"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh rosemary",
+      "aliases": [
+        "rosemary"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh thyme",
+      "aliases": [
+        "thyme"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh sage",
+      "aliases": [
+        "sage"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh oregano",
+      "aliases": [
+        "oregano"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "fresh chives",
+      "aliases": [
+        "chives"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "bean sprouts",
+      "aliases": [
+        "sprouts"
+      ],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "snow peas",
+      "aliases": [
+        "mangetout"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "okra",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "turnip",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.4
+    },
+    {
+      "name": "radish",
+      "aliases": [
+        "radishes"
+      ],
+      "category": "produce",
+      "est_price": 0.3
+    },
+    {
+      "name": "beet",
+      "aliases": [
+        "beets",
+        "beetroot"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "parsnip",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "leek",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "fennel",
+      "aliases": [
+        "fennel bulb"
+      ],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "artichoke",
+      "aliases": [
+        "artichokes"
+      ],
+      "category": "produce",
+      "est_price": 1.2
+    },
+    {
+      "name": "butternut squash",
+      "aliases": [
+        "butternut"
+      ],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "acorn squash",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "pumpkin",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "spaghetti squash",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1.2
+    },
+    {
+      "name": "plantain",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "cassava",
+      "aliases": [
+        "yuca"
+      ],
+      "category": "produce",
+      "est_price": 0.8
+    },
+    {
+      "name": "taro",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.9
+    },
+    {
+      "name": "lotus root",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 1
+    },
+    {
+      "name": "water chestnut",
+      "aliases": [
+        "water chestnuts"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "bamboo shoots",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.6
+    },
+    {
+      "name": "daikon",
+      "aliases": [
+        "daikon radish"
+      ],
+      "category": "produce",
+      "est_price": 0.5
+    },
+    {
+      "name": "jicama",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "ginger root",
+      "aliases": [],
+      "category": "produce",
+      "est_price": 0.2
+    },
+    {
+      "name": "milk",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.15
+    },
+    {
+      "name": "butter",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.25
+    },
+    {
+      "name": "unsalted butter",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.25
+    },
+    {
+      "name": "cheddar cheese",
+      "aliases": [
+        "cheddar"
+      ],
+      "category": "dairy",
+      "est_price": 0.5
+    },
+    {
+      "name": "mozzarella",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.5
+    },
+    {
+      "name": "parmesan cheese",
+      "aliases": [
+        "parmesan",
+        "parmigiano"
+      ],
+      "category": "dairy",
+      "est_price": 0.7
+    },
+    {
+      "name": "feta cheese",
+      "aliases": [
+        "feta"
+      ],
+      "category": "dairy",
+      "est_price": 0.7
+    },
+    {
+      "name": "goat cheese",
+      "aliases": [
+        "chevre"
+      ],
+      "category": "dairy",
+      "est_price": 0.8
+    },
+    {
+      "name": "cream cheese",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.4
+    },
+    {
+      "name": "sour cream",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.4
+    },
+    {
+      "name": "heavy cream",
+      "aliases": [
+        "cream",
+        "whipping cream"
+      ],
+      "category": "dairy",
+      "est_price": 0.5
+    },
+    {
+      "name": "half and half",
+      "aliases": [
+        "half-and-half"
+      ],
+      "category": "dairy",
+      "est_price": 0.3
+    },
+    {
+      "name": "yogurt",
+      "aliases": [
+        "yoghurt"
+      ],
+      "category": "dairy",
+      "est_price": 0.5
+    },
+    {
+      "name": "greek yogurt",
+      "aliases": [
+        "greek yoghurt"
+      ],
+      "category": "dairy",
+      "est_price": 0.6
+    },
+    {
+      "name": "ricotta",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.6
+    },
+    {
+      "name": "mascarpone",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.9
+    },
+    {
+      "name": "brie",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 1
+    },
+    {
+      "name": "swiss cheese",
+      "aliases": [
+        "emmental"
+      ],
+      "category": "dairy",
+      "est_price": 0.6
+    },
+    {
+      "name": "pepper jack",
+      "aliases": [
+        "monterey jack"
+      ],
+      "category": "dairy",
+      "est_price": 0.6
+    },
+    {
+      "name": "string cheese",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.4
+    },
+    {
+      "name": "evaporated milk",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.4
+    },
+    {
+      "name": "condensed milk",
+      "aliases": [
+        "sweetened condensed milk"
+      ],
+      "category": "dairy",
+      "est_price": 0.5
+    },
+    {
+      "name": "buttermilk",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.3
+    },
+    {
+      "name": "halloumi",
+      "aliases": [
+        "halloumi cheese"
+      ],
+      "category": "dairy",
+      "est_price": 0.9
+    },
+    {
+      "name": "gouda",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.6
+    },
+    {
+      "name": "blue cheese",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.8
+    },
+    {
+      "name": "cotija",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 0.7
+    },
+    {
+      "name": "egg",
+      "aliases": [
+        "eggs"
+      ],
+      "category": "protein",
+      "est_price": 0.3
+    },
+    {
+      "name": "chicken breast",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1.5
+    },
+    {
+      "name": "chicken thigh",
+      "aliases": [
+        "chicken thighs"
+      ],
+      "category": "protein",
+      "est_price": 1.2
+    },
+    {
+      "name": "ground beef",
+      "aliases": [
+        "beef",
+        "minced beef",
+        "ground beef mince"
+      ],
+      "category": "protein",
+      "est_price": 1.8
+    },
+    {
+      "name": "ground turkey",
+      "aliases": [
+        "turkey mince"
+      ],
+      "category": "protein",
+      "est_price": 1.7
+    },
+    {
+      "name": "ground pork",
+      "aliases": [
+        "pork mince"
+      ],
+      "category": "protein",
+      "est_price": 1.5
+    },
+    {
+      "name": "pork chop",
+      "aliases": [
+        "pork chops"
+      ],
+      "category": "protein",
+      "est_price": 1.8
+    },
+    {
+      "name": "bacon",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1
+    },
+    {
+      "name": "ham",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1
+    },
+    {
+      "name": "sausage",
+      "aliases": [
+        "sausages"
+      ],
+      "category": "protein",
+      "est_price": 1.2
+    },
+    {
+      "name": "italian sausage",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1.3
+    },
+    {
+      "name": "steak",
+      "aliases": [
+        "beef steak"
+      ],
+      "category": "protein",
+      "est_price": 3
+    },
+    {
+      "name": "ribeye",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 3.5
+    },
+    {
+      "name": "flank steak",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 2.8
+    },
+    {
+      "name": "chicken drumstick",
+      "aliases": [
+        "drumsticks"
+      ],
+      "category": "protein",
+      "est_price": 1
+    },
+    {
+      "name": "whole chicken",
+      "aliases": [
+        "roast chicken"
+      ],
+      "category": "protein",
+      "est_price": 4
+    },
+    {
+      "name": "deli turkey",
+      "aliases": [
+        "turkey slices"
+      ],
+      "category": "protein",
+      "est_price": 1
+    },
+    {
+      "name": "roast beef",
+      "aliases": [
+        "deli roast beef"
+      ],
+      "category": "protein",
+      "est_price": 1.2
+    },
+    {
+      "name": "salami",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1
+    },
+    {
+      "name": "prosciutto",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1.5
+    },
+    {
+      "name": "chorizo",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1.2
+    },
+    {
+      "name": "pancetta",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1.3
+    },
+    {
+      "name": "lamb chop",
+      "aliases": [
+        "lamb chops"
+      ],
+      "category": "protein",
+      "est_price": 3
+    },
+    {
+      "name": "ground lamb",
+      "aliases": [
+        "lamb mince"
+      ],
+      "category": "protein",
+      "est_price": 2.8
+    },
+    {
+      "name": "duck breast",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 3.5
+    },
+    {
+      "name": "tofu",
+      "aliases": [
+        "bean curd"
+      ],
+      "category": "protein",
+      "est_price": 0.8
+    },
+    {
+      "name": "tempeh",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 1
+    },
+    {
+      "name": "edamame",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 0.6
+    },
+    {
+      "name": "chickpeas",
+      "aliases": [
+        "garbanzo beans"
+      ],
+      "category": "protein",
+      "est_price": 0.4
+    },
+    {
+      "name": "black beans",
+      "aliases": [
+        "black beans canned"
+      ],
+      "category": "protein",
+      "est_price": 0.4
+    },
+    {
+      "name": "kidney beans",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 0.4
+    },
+    {
+      "name": "pinto beans",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 0.4
+    },
+    {
+      "name": "cannellini beans",
+      "aliases": [
+        "white beans"
+      ],
+      "category": "protein",
+      "est_price": 0.4
+    },
+    {
+      "name": "lentils",
+      "aliases": [
+        "red lentils",
+        "brown lentils"
+      ],
+      "category": "protein",
+      "est_price": 0.3
+    },
+    {
+      "name": "split peas",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 0.3
+    },
+    {
+      "name": "refried beans",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 0.5
+    },
+    {
+      "name": "baked beans",
+      "aliases": [],
+      "category": "protein",
+      "est_price": 0.5
+    },
+    {
+      "name": "shrimp",
+      "aliases": [
+        "prawns"
+      ],
+      "category": "seafood",
+      "est_price": 1.8
+    },
+    {
+      "name": "salmon",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 2.5
+    },
+    {
+      "name": "canned tuna",
+      "aliases": [
+        "tuna"
+      ],
+      "category": "seafood",
+      "est_price": 0.8
+    },
+    {
+      "name": "cod",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 1.8
+    },
+    {
+      "name": "tilapia",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 1.5
+    },
+    {
+      "name": "halibut",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 2.5
+    },
+    {
+      "name": "mahi mahi",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 2.2
+    },
+    {
+      "name": "sardines",
+      "aliases": [
+        "canned sardines"
+      ],
+      "category": "seafood",
+      "est_price": 0.7
+    },
+    {
+      "name": "anchovy",
+      "aliases": [
+        "anchovies"
+      ],
+      "category": "seafood",
+      "est_price": 0.6
+    },
+    {
+      "name": "crab",
+      "aliases": [
+        "crab meat"
+      ],
+      "category": "seafood",
+      "est_price": 2.5
+    },
+    {
+      "name": "lobster",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 5
+    },
+    {
+      "name": "mussels",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 1.5
+    },
+    {
+      "name": "clams",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 1.5
+    },
+    {
+      "name": "oysters",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 2
+    },
+    {
+      "name": "scallops",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 2.5
+    },
+    {
+      "name": "squid",
+      "aliases": [
+        "calamari"
+      ],
+      "category": "seafood",
+      "est_price": 1.8
+    },
+    {
+      "name": "smoked salmon",
+      "aliases": [
+        "lox"
+      ],
+      "category": "seafood",
+      "est_price": 2
+    },
+    {
+      "name": "white fish",
+      "aliases": [
+        "whitefish"
+      ],
+      "category": "seafood",
+      "est_price": 1.6
+    },
+    {
+      "name": "catfish",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 1.5
+    },
+    {
+      "name": "trout",
+      "aliases": [],
+      "category": "seafood",
+      "est_price": 2
+    },
+    {
+      "name": "rice",
+      "aliases": [
+        "white rice",
+        "jasmine rice",
+        "basmati rice"
+      ],
+      "category": "grain",
+      "est_price": 0.2
+    },
+    {
+      "name": "brown rice",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.25
+    },
+    {
+      "name": "sushi rice",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.3
+    },
+    {
+      "name": "arborio rice",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.35
+    },
+    {
+      "name": "quinoa",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.4
+    },
+    {
+      "name": "couscous",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.3
+    },
+    {
+      "name": "pasta",
+      "aliases": [
+        "penne",
+        "macaroni",
+        "fusilli",
+        "farfalle"
+      ],
+      "category": "grain",
+      "est_price": 0.3
+    },
+    {
+      "name": "spaghetti",
+      "aliases": [
+        "linguine",
+        "fettuccine"
+      ],
+      "category": "grain",
+      "est_price": 0.3
+    },
+    {
+      "name": "ramen noodles",
+      "aliases": [
+        "instant noodles",
+        "ramen"
+      ],
+      "category": "grain",
+      "est_price": 0.4
+    },
+    {
+      "name": "rice noodles",
+      "aliases": [
+        "rice vermicelli"
+      ],
+      "category": "grain",
+      "est_price": 0.4
+    },
+    {
+      "name": "egg noodles",
+      "aliases": [
+        "noodles"
+      ],
+      "category": "grain",
+      "est_price": 0.4
+    },
+    {
+      "name": "udon",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.6
+    },
+    {
+      "name": "soba",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.6
+    },
+    {
+      "name": "oats",
+      "aliases": [
+        "rolled oats",
+        "oatmeal"
+      ],
+      "category": "grain",
+      "est_price": 0.15
+    },
+    {
+      "name": "all-purpose flour",
+      "aliases": [
+        "flour"
+      ],
+      "category": "grain",
+      "est_price": 0.1
+    },
+    {
+      "name": "whole wheat flour",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.15
+    },
+    {
+      "name": "bread flour",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.15
+    },
+    {
+      "name": "almond flour",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.5
+    },
+    {
+      "name": "cornmeal",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.2
+    },
+    {
+      "name": "breadcrumbs",
+      "aliases": [
+        "panko"
+      ],
+      "category": "grain",
+      "est_price": 0.2
+    },
+    {
+      "name": "tortilla",
+      "aliases": [
+        "flour tortillas"
+      ],
+      "category": "bakery",
+      "est_price": 0.3
+    },
+    {
+      "name": "corn tortillas",
+      "aliases": [],
+      "category": "bakery",
+      "est_price": 0.3
+    },
+    {
+      "name": "bread",
+      "aliases": [
+        "white bread",
+        "sandwich bread"
+      ],
+      "category": "bakery",
+      "est_price": 0.25
+    },
+    {
+      "name": "sourdough",
+      "aliases": [
+        "sourdough bread"
+      ],
+      "category": "bakery",
+      "est_price": 0.4
+    },
+    {
+      "name": "baguette",
+      "aliases": [],
+      "category": "bakery",
+      "est_price": 0.5
+    },
+    {
+      "name": "ciabatta",
+      "aliases": [],
+      "category": "bakery",
+      "est_price": 0.5
+    },
+    {
+      "name": "whole wheat bread",
+      "aliases": [
+        "wholemeal bread"
+      ],
+      "category": "bakery",
+      "est_price": 0.3
+    },
+    {
+      "name": "pita",
+      "aliases": [
+        "pita bread"
+      ],
+      "category": "bakery",
+      "est_price": 0.35
+    },
+    {
+      "name": "naan",
+      "aliases": [
+        "naan bread"
+      ],
+      "category": "bakery",
+      "est_price": 0.5
+    },
+    {
+      "name": "english muffin",
+      "aliases": [],
+      "category": "bakery",
+      "est_price": 0.4
+    },
+    {
+      "name": "bagel",
+      "aliases": [
+        "bagels"
+      ],
+      "category": "bakery",
+      "est_price": 0.5
+    },
+    {
+      "name": "cereal",
+      "aliases": [
+        "breakfast cereal"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "granola",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.5
+    },
+    {
+      "name": "crackers",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "popcorn kernels",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.2
+    },
+    {
+      "name": "grits",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.2
+    },
+    {
+      "name": "polenta",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.25
+    },
+    {
+      "name": "buckwheat",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.3
+    },
+    {
+      "name": "millet",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.3
+    },
+    {
+      "name": "barley",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.3
+    },
+    {
+      "name": "farro",
+      "aliases": [],
+      "category": "grain",
+      "est_price": 0.4
+    },
+    {
+      "name": "canned tomatoes",
+      "aliases": [
+        "crushed tomatoes",
+        "diced tomatoes",
+        "tomato puree"
+      ],
+      "category": "pantry",
+      "est_price": 0.6
+    },
+    {
+      "name": "tomato paste",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "tomato sauce",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "canned corn",
+      "aliases": [
+        "corn kernels"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "canned pumpkin",
+      "aliases": [
+        "pumpkin puree"
+      ],
+      "category": "pantry",
+      "est_price": 0.5
+    },
+    {
+      "name": "coconut milk",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.6
+    },
+    {
+      "name": "chicken broth",
+      "aliases": [
+        "chicken stock"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "beef broth",
+      "aliases": [
+        "beef stock"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "vegetable broth",
+      "aliases": [
+        "vegetable stock"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "dried mushrooms",
+      "aliases": [
+        "dried porcini"
+      ],
+      "category": "pantry",
+      "est_price": 0.8
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "aliases": [
+        "sundried tomatoes"
+      ],
+      "category": "pantry",
+      "est_price": 0.7
+    },
+    {
+      "name": "olives",
+      "aliases": [
+        "black olives",
+        "kalamata olives"
+      ],
+      "category": "pantry",
+      "est_price": 0.5
+    },
+    {
+      "name": "pickles",
+      "aliases": [
+        "pickles",
+        "dill pickles"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "capers",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "artichoke hearts",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.7
+    },
+    {
+      "name": "roasted red peppers",
+      "aliases": [
+        "jarred red peppers"
+      ],
+      "category": "pantry",
+      "est_price": 0.7
+    },
+    {
+      "name": "garlic powder",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "onion powder",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "paprika",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "smoked paprika",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.12
+    },
+    {
+      "name": "cumin",
+      "aliases": [
+        "ground cumin"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "chili powder",
+      "aliases": [
+        "chilli powder"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "cayenne",
+      "aliases": [
+        "cayenne pepper"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "curry powder",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.12
+    },
+    {
+      "name": "garam masala",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.15
+    },
+    {
+      "name": "turmeric",
+      "aliases": [
+        "ground turmeric"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "cinnamon",
+      "aliases": [
+        "ground cinnamon"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "nutmeg",
+      "aliases": [
+        "ground nutmeg"
+      ],
+      "category": "spices",
+      "est_price": 0.12
+    },
+    {
+      "name": "ground ginger",
+      "aliases": [
+        "ginger powder"
+      ],
+      "category": "spices",
+      "est_price": 0.12
+    },
+    {
+      "name": "ground coriander",
+      "aliases": [
+        "coriander powder"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "dried oregano",
+      "aliases": [
+        "oregano"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "dried basil",
+      "aliases": [
+        "basil dried"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "dried thyme",
+      "aliases": [
+        "thyme dried"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "dried rosemary",
+      "aliases": [
+        "rosemary dried"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "bay leaf",
+      "aliases": [
+        "bay leaves"
+      ],
+      "category": "spices",
+      "est_price": 0.05
+    },
+    {
+      "name": "red pepper flakes",
+      "aliases": [
+        "chili flakes",
+        "chilli flakes",
+        "crushed red pepper"
+      ],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "cardamom",
+      "aliases": [
+        "cardamom pods"
+      ],
+      "category": "spices",
+      "est_price": 0.2
+    },
+    {
+      "name": "cloves",
+      "aliases": [
+        "ground cloves"
+      ],
+      "category": "spices",
+      "est_price": 0.12
+    },
+    {
+      "name": "allspice",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.12
+    },
+    {
+      "name": "star anise",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.15
+    },
+    {
+      "name": "chinese five spice",
+      "aliases": [
+        "five spice"
+      ],
+      "category": "spices",
+      "est_price": 0.15
+    },
+    {
+      "name": "italian seasoning",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "za'atar",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.2
+    },
+    {
+      "name": "sumac",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.15
+    },
+    {
+      "name": "saffron",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 1.5
+    },
+    {
+      "name": "vanilla extract",
+      "aliases": [
+        "vanilla"
+      ],
+      "category": "spices",
+      "est_price": 0.3
+    },
+    {
+      "name": "almond extract",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.3
+    },
+    {
+      "name": "mustard seeds",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "fennel seeds",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "caraway seeds",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.1
+    },
+    {
+      "name": "sesame oil",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "coconut oil",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.25
+    },
+    {
+      "name": "canola oil",
+      "aliases": [
+        "rapeseed oil"
+      ],
+      "category": "pantry",
+      "est_price": 0.1
+    },
+    {
+      "name": "soy sauce",
+      "aliases": [
+        "shoyu"
+      ],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "tamari",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "fish sauce",
+      "aliases": [
+        "nam pla"
+      ],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "hoisin sauce",
+      "aliases": [
+        "hoisin"
+      ],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "oyster sauce",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "sriracha",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "hot sauce",
+      "aliases": [
+        "tabasco"
+      ],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "ketchup",
+      "aliases": [
+        "tomato ketchup"
+      ],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "mustard",
+      "aliases": [
+        "yellow mustard"
+      ],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "dijon mustard",
+      "aliases": [
+        "dijon"
+      ],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "whole grain mustard",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "mayonnaise",
+      "aliases": [
+        "mayo"
+      ],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "ranch dressing",
+      "aliases": [
+        "ranch"
+      ],
+      "category": "condiment",
+      "est_price": 0.25
+    },
+    {
+      "name": "italian dressing",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.25
+    },
+    {
+      "name": "tahini",
+      "aliases": [
+        "sesame paste"
+      ],
+      "category": "condiment",
+      "est_price": 0.3
+    },
+    {
+      "name": "peanut butter",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.3
+    },
+    {
+      "name": "almond butter",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.5
+    },
+    {
+      "name": "hummus",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.5
+    },
+    {
+      "name": "harissa",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.3
+    },
+    {
+      "name": "gochujang",
+      "aliases": [
+        "korean chili paste"
+      ],
+      "category": "condiment",
+      "est_price": 0.3
+    },
+    {
+      "name": "miso",
+      "aliases": [
+        "white miso",
+        "red miso"
+      ],
+      "category": "condiment",
+      "est_price": 0.4
+    },
+    {
+      "name": "worcestershire sauce",
+      "aliases": [
+        "worcestershire"
+      ],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "white vinegar",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.1
+    },
+    {
+      "name": "apple cider vinegar",
+      "aliases": [
+        "cider vinegar"
+      ],
+      "category": "condiment",
+      "est_price": 0.12
+    },
+    {
+      "name": "balsamic vinegar",
+      "aliases": [
+        "balsamic"
+      ],
+      "category": "condiment",
+      "est_price": 0.25
+    },
+    {
+      "name": "rice vinegar",
+      "aliases": [
+        "rice wine vinegar"
+      ],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "red wine vinegar",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.15
+    },
+    {
+      "name": "salsa",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.3
+    },
+    {
+      "name": "pesto",
+      "aliases": [
+        "basil pesto"
+      ],
+      "category": "condiment",
+      "est_price": 0.5
+    },
+    {
+      "name": "marinara sauce",
+      "aliases": [
+        "pasta sauce",
+        "spaghetti sauce"
+      ],
+      "category": "condiment",
+      "est_price": 0.4
+    },
+    {
+      "name": "alfredo sauce",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.5
+    },
+    {
+      "name": "buffalo sauce",
+      "aliases": [
+        "hot wing sauce"
+      ],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "honey mustard",
+      "aliases": [],
+      "category": "condiment",
+      "est_price": 0.2
+    },
+    {
+      "name": "jam",
+      "aliases": [
+        "jelly",
+        "fruit jam"
+      ],
+      "category": "pantry",
+      "est_price": 0.25
+    },
+    {
+      "name": "nutella",
+      "aliases": [
+        "chocolate hazelnut spread"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "chocolate chips",
+      "aliases": [
+        "chocolate chips"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "cocoa powder",
+      "aliases": [
+        "cacao powder"
+      ],
+      "category": "pantry",
+      "est_price": 0.15
+    },
+    {
+      "name": "cornstarch",
+      "aliases": [
+        "corn starch"
+      ],
+      "category": "pantry",
+      "est_price": 0.1
+    },
+    {
+      "name": "baking powder",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.08
+    },
+    {
+      "name": "baking soda",
+      "aliases": [
+        "bicarbonate of soda"
+      ],
+      "category": "pantry",
+      "est_price": 0.05
+    },
+    {
+      "name": "yeast",
+      "aliases": [
+        "active dry yeast",
+        "instant yeast"
+      ],
+      "category": "pantry",
+      "est_price": 0.15
+    },
+    {
+      "name": "sugar",
+      "aliases": [
+        "granulated sugar"
+      ],
+      "category": "pantry",
+      "est_price": 0.08
+    },
+    {
+      "name": "brown sugar",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.1
+    },
+    {
+      "name": "powdered sugar",
+      "aliases": [
+        "icing sugar",
+        "confectioners sugar"
+      ],
+      "category": "pantry",
+      "est_price": 0.1
+    },
+    {
+      "name": "honey",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.25
+    },
+    {
+      "name": "maple syrup",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "agave",
+      "aliases": [
+        "agave syrup",
+        "agave nectar"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "molasses",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.2
+    },
+    {
+      "name": "corn syrup",
+      "aliases": [
+        "light corn syrup"
+      ],
+      "category": "pantry",
+      "est_price": 0.15
+    },
+    {
+      "name": "gelatin",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.2
+    },
+    {
+      "name": "marshmallows",
+      "aliases": [
+        "marshmallow"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "dark chocolate",
+      "aliases": [
+        "dark chocolate bar"
+      ],
+      "category": "pantry",
+      "est_price": 0.5
+    },
+    {
+      "name": "white chocolate",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.5
+    },
+    {
+      "name": "peanut",
+      "aliases": [
+        "peanuts"
+      ],
+      "category": "nut",
+      "est_price": 0.15
+    },
+    {
+      "name": "almond",
+      "aliases": [
+        "almonds"
+      ],
+      "category": "nut",
+      "est_price": 0.3
+    },
+    {
+      "name": "walnut",
+      "aliases": [
+        "walnuts"
+      ],
+      "category": "nut",
+      "est_price": 0.3
+    },
+    {
+      "name": "cashew",
+      "aliases": [
+        "cashews"
+      ],
+      "category": "nut",
+      "est_price": 0.35
+    },
+    {
+      "name": "pecan",
+      "aliases": [
+        "pecans"
+      ],
+      "category": "nut",
+      "est_price": 0.35
+    },
+    {
+      "name": "hazelnut",
+      "aliases": [
+        "hazelnuts"
+      ],
+      "category": "nut",
+      "est_price": 0.35
+    },
+    {
+      "name": "pistachio",
+      "aliases": [
+        "pistachios"
+      ],
+      "category": "nut",
+      "est_price": 0.4
+    },
+    {
+      "name": "macadamia",
+      "aliases": [
+        "macadamia nuts"
+      ],
+      "category": "nut",
+      "est_price": 0.5
+    },
+    {
+      "name": "pine nuts",
+      "aliases": [
+        "piñon nuts"
+      ],
+      "category": "nut",
+      "est_price": 0.6
+    },
+    {
+      "name": "brazil nut",
+      "aliases": [
+        "brazil nuts"
+      ],
+      "category": "nut",
+      "est_price": 0.4
+    },
+    {
+      "name": "chia seeds",
+      "aliases": [
+        "chia"
+      ],
+      "category": "pantry",
+      "est_price": 0.2
+    },
+    {
+      "name": "flax seeds",
+      "aliases": [
+        "flaxseed",
+        "ground flaxseed"
+      ],
+      "category": "pantry",
+      "est_price": 0.15
+    },
+    {
+      "name": "sunflower seeds",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.2
+    },
+    {
+      "name": "pumpkin seeds",
+      "aliases": [
+        "pepitas"
+      ],
+      "category": "pantry",
+      "est_price": 0.25
+    },
+    {
+      "name": "sesame seeds",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.15
+    },
+    {
+      "name": "hemp seeds",
+      "aliases": [
+        "hemp hearts"
+      ],
+      "category": "pantry",
+      "est_price": 0.25
+    },
+    {
+      "name": "poppy seeds",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.15
+    },
+    {
+      "name": "frozen peas",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.25
+    },
+    {
+      "name": "frozen corn",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.25
+    },
+    {
+      "name": "frozen spinach",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.4
+    },
+    {
+      "name": "frozen berries",
+      "aliases": [
+        "frozen mixed berries"
+      ],
+      "category": "frozen",
+      "est_price": 0.6
+    },
+    {
+      "name": "frozen mixed vegetables",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.3
+    },
+    {
+      "name": "frozen broccoli",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.4
+    },
+    {
+      "name": "frozen edamame",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.4
+    },
+    {
+      "name": "frozen mango",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.6
+    },
+    {
+      "name": "frozen french fries",
+      "aliases": [
+        "fries"
+      ],
+      "category": "frozen",
+      "est_price": 0.4
+    },
+    {
+      "name": "ice cream",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.6
+    },
+    {
+      "name": "frozen dumplings",
+      "aliases": [
+        "dumplings"
+      ],
+      "category": "frozen",
+      "est_price": 0.8
+    },
+    {
+      "name": "frozen waffles",
+      "aliases": [],
+      "category": "frozen",
+      "est_price": 0.4
+    },
+    {
+      "name": "white wine",
+      "aliases": [
+        "dry white wine"
+      ],
+      "category": "alcohol",
+      "est_price": 0.8
+    },
+    {
+      "name": "red wine",
+      "aliases": [
+        "dry red wine"
+      ],
+      "category": "alcohol",
+      "est_price": 0.8
+    },
+    {
+      "name": "beer",
+      "aliases": [],
+      "category": "alcohol",
+      "est_price": 0.7
+    },
+    {
+      "name": "rum",
+      "aliases": [],
+      "category": "alcohol",
+      "est_price": 0.5
+    },
+    {
+      "name": "vodka",
+      "aliases": [],
+      "category": "alcohol",
+      "est_price": 0.5
+    },
+    {
+      "name": "mirin",
+      "aliases": [
+        "cooking wine"
+      ],
+      "category": "alcohol",
+      "est_price": 0.3
+    }
+  ]
+}

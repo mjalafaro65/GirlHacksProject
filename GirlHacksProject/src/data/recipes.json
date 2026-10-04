@@ -1,0 +1,3122 @@
+{
+  "title": "The 100 Recipe Cookbook",
+  "description": "A collection of 100 recipes across 12 categories.",
+  "total_recipes": 100,
+  "categories": {
+    "Breakfast": 10,
+    "Appetizers & Snacks": 8,
+    "Soups & Salads": 10,
+    "Pasta & Noodles": 10,
+    "Chicken & Poultry": 10,
+    "Beef, Pork & Lamb": 10,
+    "Seafood": 8,
+    "Vegetarian & Vegan": 10,
+    "Sides": 6,
+    "Desserts": 10,
+    "Drinks": 4,
+    "Baking & Bread": 4
+  },
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Fluffy Buttermilk Pancakes",
+      "category": "Breakfast",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "2 tbsp sugar",
+        "2 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "1 1/4 cups buttermilk",
+        "1 large egg",
+        "3 tbsp melted butter, plus more for the pan"
+      ],
+      "instructions": [
+        "Whisk the flour, sugar, baking powder, baking soda and salt in a large bowl.",
+        "In a second bowl, whisk the buttermilk, egg and melted butter.",
+        "Pour the wet ingredients into the dry and stir until just combined; a few lumps are fine.",
+        "Heat a buttered skillet over medium heat and pour in 1/4 cup batter per pancake.",
+        "Cook until bubbles form on top, flip, and cook 1-2 minutes more until golden."
+      ],
+      "tags": [
+        "vegetarian",
+        "brunch",
+        "kid-friendly"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Creamy Scrambled Eggs",
+      "category": "Breakfast",
+      "cuisine": "French",
+      "prep_time_minutes": 2,
+      "cook_time_minutes": 6,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 large eggs",
+        "2 tbsp butter",
+        "2 tbsp milk or cream",
+        "1/4 tsp salt",
+        "Black pepper to taste",
+        "Chopped chives for serving"
+      ],
+      "instructions": [
+        "Whisk the eggs, milk, salt and pepper until fully blended.",
+        "Melt the butter in a nonstick skillet over low heat.",
+        "Pour in the eggs and stir slowly with a spatula, pushing them from the edges to the center.",
+        "Remove from the heat while still slightly glossy, since they keep cooking.",
+        "Top with chives and serve immediately."
+      ],
+      "tags": [
+        "vegetarian",
+        "quick",
+        "high-protein"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Avocado Toast with Poached Egg",
+      "category": "Breakfast",
+      "cuisine": "American",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 8,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 slices sourdough bread",
+        "1 ripe avocado",
+        "2 large eggs",
+        "1 tsp lemon juice",
+        "1/4 tsp red pepper flakes",
+        "Salt and pepper to taste",
+        "1 tsp white vinegar"
+      ],
+      "instructions": [
+        "Toast the bread until golden and crisp.",
+        "Mash the avocado with lemon juice, salt and pepper.",
+        "Bring a pot of water to a gentle simmer and add the vinegar.",
+        "Crack each egg into a cup, swirl the water, and slide the eggs in; poach for 3 minutes.",
+        "Spread avocado on the toast, top with the poached eggs and sprinkle with red pepper flakes."
+      ],
+      "tags": [
+        "vegetarian",
+        "quick",
+        "high-protein"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Overnight Oats with Berries",
+      "category": "Breakfast",
+      "cuisine": "American",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 cup rolled oats",
+        "1 cup milk of choice",
+        "1/2 cup plain Greek yogurt",
+        "1 tbsp chia seeds",
+        "1 tbsp maple syrup",
+        "1/2 tsp vanilla extract",
+        "1 cup mixed berries"
+      ],
+      "instructions": [
+        "Combine the oats, milk, yogurt, chia seeds, maple syrup and vanilla in a bowl.",
+        "Stir well and divide between two jars.",
+        "Cover and refrigerate for at least 6 hours or overnight.",
+        "Top with berries just before eating."
+      ],
+      "tags": [
+        "vegetarian",
+        "make-ahead",
+        "no-cook"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Veggie Omelette",
+      "category": "Breakfast",
+      "cuisine": "French",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 6,
+      "servings": 1,
+      "difficulty": "Medium",
+      "ingredients": [
+        "3 large eggs",
+        "1 tbsp butter",
+        "1/4 cup diced bell pepper",
+        "1/4 cup chopped spinach",
+        "2 tbsp diced onion",
+        "1/4 cup shredded cheddar",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Saute the pepper and onion in half the butter for 3 minutes, add spinach until wilted, then set aside.",
+        "Beat the eggs with salt and pepper.",
+        "Melt the remaining butter in a nonstick pan over medium heat and add the eggs.",
+        "As the edges set, lift them to let uncooked egg flow underneath.",
+        "Add the vegetables and cheese to one half, fold over, and slide onto a plate."
+      ],
+      "tags": [
+        "vegetarian",
+        "high-protein",
+        "gluten-free"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Cinnamon French Toast",
+      "category": "Breakfast",
+      "cuisine": "French",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "8 slices thick bread such as brioche",
+        "4 large eggs",
+        "1 cup milk",
+        "1 tsp cinnamon",
+        "1 tsp vanilla extract",
+        "2 tbsp butter",
+        "Maple syrup for serving"
+      ],
+      "instructions": [
+        "Whisk the eggs, milk, cinnamon and vanilla in a shallow dish.",
+        "Dip each bread slice for about 15 seconds per side.",
+        "Melt butter in a skillet over medium heat.",
+        "Cook the slices 2-3 minutes per side until golden brown.",
+        "Serve warm with maple syrup."
+      ],
+      "tags": [
+        "vegetarian",
+        "brunch",
+        "kid-friendly"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Shakshuka",
+      "category": "Breakfast",
+      "cuisine": "Middle Eastern",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, diced",
+        "1 red bell pepper, diced",
+        "3 cloves garlic, minced",
+        "1 tsp cumin",
+        "1 tsp paprika",
+        "1 can (28 oz) crushed tomatoes",
+        "6 large eggs",
+        "Fresh parsley and crusty bread for serving"
+      ],
+      "instructions": [
+        "Heat the oil in a large skillet and saute the onion and pepper for 6 minutes.",
+        "Add the garlic, cumin and paprika and cook 1 minute.",
+        "Pour in the tomatoes, season with salt, and simmer 10 minutes until thickened.",
+        "Make six wells in the sauce and crack an egg into each.",
+        "Cover and cook 5-8 minutes until the whites are set. Garnish with parsley and serve with bread."
+      ],
+      "tags": [
+        "vegetarian",
+        "one-pan",
+        "brunch"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Breakfast Burritos",
+      "category": "Breakfast",
+      "cuisine": "Tex-Mex",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 large flour tortillas",
+        "6 eggs, beaten",
+        "1/2 lb breakfast sausage",
+        "1 cup diced potatoes, cooked",
+        "1 cup shredded cheese",
+        "1/2 cup salsa",
+        "1 tbsp oil"
+      ],
+      "instructions": [
+        "Brown the sausage in a skillet, breaking it up, then remove and drain.",
+        "Scramble the eggs in the same pan until just set.",
+        "Warm the tortillas to make them pliable.",
+        "Fill each with eggs, sausage, potatoes, cheese and salsa.",
+        "Fold in the sides, roll tightly, and toast seam-side down in the pan for 1 minute."
+      ],
+      "tags": [
+        "make-ahead",
+        "freezer-friendly",
+        "hearty"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Banana Berry Smoothie Bowl",
+      "category": "Breakfast",
+      "cuisine": "American",
+      "prep_time_minutes": 8,
+      "cook_time_minutes": 0,
+      "servings": 1,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 frozen banana",
+        "1 cup frozen mixed berries",
+        "1/2 cup plain yogurt",
+        "1/4 cup milk",
+        "2 tbsp granola",
+        "1 tbsp sliced almonds",
+        "1 tsp honey"
+      ],
+      "instructions": [
+        "Blend the banana, berries, yogurt and milk until thick and smooth, adding milk a splash at a time if needed.",
+        "Pour into a bowl.",
+        "Top with granola, almonds and a drizzle of honey."
+      ],
+      "tags": [
+        "vegetarian",
+        "no-cook",
+        "quick"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Loaded Breakfast Hash",
+      "category": "Breakfast",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "3 medium potatoes, diced small",
+        "1 tbsp olive oil",
+        "1/2 lb diced ham or bacon",
+        "1 bell pepper, diced",
+        "1/2 onion, diced",
+        "4 eggs",
+        "Salt, pepper and smoked paprika to taste"
+      ],
+      "instructions": [
+        "Heat the oil in a large skillet and cook the potatoes for 10 minutes, stirring occasionally, until browned.",
+        "Add the ham, pepper and onion and cook 8 more minutes.",
+        "Season with salt, pepper and paprika.",
+        "Make four wells in the hash and crack in the eggs.",
+        "Cover and cook 4-5 minutes until the whites are set."
+      ],
+      "tags": [
+        "one-pan",
+        "hearty",
+        "brunch"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Classic Guacamole",
+      "category": "Appetizers & Snacks",
+      "cuisine": "Mexican",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 0,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "3 ripe avocados",
+        "1/4 cup finely diced red onion",
+        "1 jalapeno, minced",
+        "2 tbsp chopped cilantro",
+        "2 tbsp lime juice",
+        "1/2 tsp salt",
+        "1 small tomato, diced"
+      ],
+      "instructions": [
+        "Halve the avocados and scoop the flesh into a bowl.",
+        "Mash with a fork to your preferred texture.",
+        "Stir in the onion, jalapeno, cilantro, lime juice and salt.",
+        "Fold in the tomato, taste, and adjust the seasoning.",
+        "Serve right away with tortilla chips."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "no-cook"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Creamy Homemade Hummus",
+      "category": "Appetizers & Snacks",
+      "cuisine": "Middle Eastern",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 0,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 can (15 oz) chickpeas, drained",
+        "1/4 cup tahini",
+        "3 tbsp lemon juice",
+        "1 clove garlic",
+        "3 tbsp ice water",
+        "1/2 tsp salt",
+        "2 tbsp olive oil, plus more for serving"
+      ],
+      "instructions": [
+        "Blend the tahini and lemon juice for 1 minute until pale and creamy.",
+        "Add the garlic, olive oil, salt and half the chickpeas and blend.",
+        "Add the remaining chickpeas and blend until smooth.",
+        "With the machine running, add ice water a tablespoon at a time until fluffy.",
+        "Serve drizzled with olive oil."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Tomato Basil Bruschetta",
+      "category": "Appetizers & Snacks",
+      "cuisine": "Italian",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 8,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 baguette, sliced",
+        "4 ripe tomatoes, diced",
+        "2 cloves garlic (1 minced, 1 halved)",
+        "1/4 cup chopped fresh basil",
+        "2 tbsp olive oil",
+        "1 tbsp balsamic vinegar",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Toast the baguette slices at 400°F for 6-8 minutes until crisp.",
+        "Mix the tomatoes, minced garlic, basil, oil, vinegar and salt, and let sit 10 minutes.",
+        "Rub each toast with the cut side of the halved garlic.",
+        "Spoon the tomato mixture on top and serve immediately."
+      ],
+      "tags": [
+        "vegan",
+        "party",
+        "quick"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Spinach Artichoke Dip",
+      "category": "Appetizers & Snacks",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        "8 oz cream cheese, softened",
+        "1/2 cup sour cream",
+        "1/2 cup mayonnaise",
+        "1 can (14 oz) artichoke hearts, chopped",
+        "10 oz frozen spinach, thawed and squeezed dry",
+        "1 cup shredded mozzarella",
+        "1/2 cup grated Parmesan",
+        "2 cloves garlic, minced"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F.",
+        "Mix the cream cheese, sour cream, mayonnaise and garlic until smooth.",
+        "Stir in the artichokes, spinach, mozzarella and half the Parmesan.",
+        "Spread into a baking dish and top with the remaining Parmesan.",
+        "Bake 25 minutes until bubbly and golden. Serve with chips or bread."
+      ],
+      "tags": [
+        "vegetarian",
+        "party",
+        "baked"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Crispy Buffalo Cauliflower Bites",
+      "category": "Appetizers & Snacks",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 head cauliflower, cut into florets",
+        "1/2 cup flour",
+        "1/2 cup water",
+        "1 tsp garlic powder",
+        "1/2 cup buffalo sauce",
+        "1 tbsp melted butter or oil",
+        "Ranch or blue cheese dip for serving"
+      ],
+      "instructions": [
+        "Preheat the oven to 450°F and line a baking sheet.",
+        "Whisk the flour, water and garlic powder into a batter and toss the florets to coat.",
+        "Spread on the sheet and bake 20 minutes, flipping halfway.",
+        "Toss the baked florets in the buffalo sauce and butter.",
+        "Return to the oven for 5 minutes, then serve with dip."
+      ],
+      "tags": [
+        "vegetarian",
+        "party",
+        "baked"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Classic Deviled Eggs",
+      "category": "Appetizers & Snacks",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "servings": 12,
+      "difficulty": "Easy",
+      "ingredients": [
+        "6 large eggs",
+        "1/4 cup mayonnaise",
+        "1 tsp Dijon mustard",
+        "1 tsp white vinegar",
+        "Salt and pepper to taste",
+        "Smoked paprika for garnish"
+      ],
+      "instructions": [
+        "Place the eggs in a pot, cover with cold water, bring to a boil, then cover and remove from heat for 12 minutes.",
+        "Cool in ice water, then peel.",
+        "Halve the eggs and scoop the yolks into a bowl.",
+        "Mash the yolks with the mayonnaise, mustard, vinegar, salt and pepper until smooth.",
+        "Spoon or pipe the filling into the whites and dust with paprika."
+      ],
+      "tags": [
+        "gluten-free",
+        "party",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Garlic Herb Stuffed Mushrooms",
+      "category": "Appetizers & Snacks",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "20 white button mushrooms, stems removed and minced",
+        "4 oz cream cheese, softened",
+        "1/3 cup breadcrumbs",
+        "1/4 cup grated Parmesan",
+        "2 cloves garlic, minced",
+        "2 tbsp chopped parsley",
+        "1 tbsp olive oil"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F.",
+        "Saute the minced stems and garlic in oil for 4 minutes.",
+        "Mix with the cream cheese, breadcrumbs, Parmesan and parsley.",
+        "Stuff the mushroom caps and arrange on a baking sheet.",
+        "Bake 18-20 minutes until golden."
+      ],
+      "tags": [
+        "vegetarian",
+        "party",
+        "baked"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Caprese Skewers",
+      "category": "Appetizers & Snacks",
+      "cuisine": "Italian",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        "24 cherry tomatoes",
+        "24 small fresh mozzarella balls",
+        "24 fresh basil leaves",
+        "2 tbsp balsamic glaze",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Thread a tomato, a basil leaf and a mozzarella ball onto each small skewer.",
+        "Arrange on a platter.",
+        "Drizzle with olive oil and balsamic glaze.",
+        "Season with salt and pepper and serve."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "no-cook"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Creamy Tomato Basil Soup",
+      "category": "Soups & Salads",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "1 can (28 oz) whole peeled tomatoes",
+        "2 cups vegetable broth",
+        "1/2 cup heavy cream",
+        "1/4 cup fresh basil",
+        "1 tsp sugar",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Saute the onion in oil for 5 minutes, then add the garlic for 1 minute.",
+        "Add the tomatoes with their juice, broth and sugar and simmer 20 minutes.",
+        "Add the basil and blend until smooth.",
+        "Stir in the cream, season, and heat through without boiling."
+      ],
+      "tags": [
+        "vegetarian",
+        "comfort-food",
+        "gluten-free"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Chicken Noodle Soup",
+      "category": "Soups & Salads",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 tbsp olive oil",
+        "1 onion, diced",
+        "3 carrots, sliced",
+        "3 celery stalks, sliced",
+        "3 cloves garlic, minced",
+        "8 cups chicken broth",
+        "1 1/2 lb boneless chicken breasts or thighs",
+        "2 cups egg noodles",
+        "2 tbsp chopped parsley",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Saute the onion, carrots and celery in oil for 6 minutes, adding the garlic for the last minute.",
+        "Add the broth and chicken and simmer 20 minutes until the chicken is cooked through.",
+        "Remove the chicken, shred it, and return it to the pot.",
+        "Add the noodles and cook until tender, about 6 minutes.",
+        "Stir in the parsley and season to taste."
+      ],
+      "tags": [
+        "comfort-food",
+        "family-dinner",
+        "one-pot"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Hearty Minestrone",
+      "category": "Soups & Salads",
+      "cuisine": "Italian",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, diced",
+        "2 carrots, diced",
+        "2 celery stalks, diced",
+        "3 cloves garlic, minced",
+        "1 can (14 oz) diced tomatoes",
+        "6 cups vegetable broth",
+        "1 can (15 oz) cannellini beans, drained",
+        "1 zucchini, diced",
+        "1 cup small pasta",
+        "2 cups chopped kale or spinach",
+        "Parmesan for serving"
+      ],
+      "instructions": [
+        "Saute the onion, carrots and celery in oil for 6 minutes, then add the garlic.",
+        "Add the tomatoes, broth, beans and zucchini and simmer 15 minutes.",
+        "Add the pasta and cook 8-10 minutes until tender.",
+        "Stir in the greens until wilted and season to taste.",
+        "Serve topped with Parmesan."
+      ],
+      "tags": [
+        "vegetarian",
+        "one-pot",
+        "meal-prep"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "French Onion Soup",
+      "category": "Soups & Salads",
+      "cuisine": "French",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 60,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "4 large yellow onions, thinly sliced",
+        "3 tbsp butter",
+        "1 tsp sugar",
+        "1/2 cup dry white wine",
+        "6 cups beef broth",
+        "2 sprigs thyme",
+        "4 slices baguette",
+        "1 1/2 cups shredded Gruyere"
+      ],
+      "instructions": [
+        "Cook the onions in butter with the sugar and a pinch of salt over medium-low heat for 40 minutes, stirring often, until deeply caramelized.",
+        "Deglaze with the wine and cook until nearly evaporated.",
+        "Add the broth and thyme and simmer 15 minutes.",
+        "Ladle into oven-safe bowls, top with baguette and Gruyere.",
+        "Broil until the cheese is bubbling and browned."
+      ],
+      "tags": [
+        "comfort-food",
+        "classic"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Red Lentil Soup",
+      "category": "Soups & Salads",
+      "cuisine": "Middle Eastern",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 tbsp olive oil",
+        "1 onion, diced",
+        "2 carrots, diced",
+        "3 cloves garlic, minced",
+        "1 tsp cumin",
+        "1 tsp turmeric",
+        "1 1/2 cups red lentils, rinsed",
+        "6 cups vegetable broth",
+        "2 tbsp lemon juice",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Saute the onion and carrots in oil for 5 minutes.",
+        "Add the garlic, cumin and turmeric and cook 1 minute.",
+        "Add the lentils and broth and simmer 20 minutes until soft.",
+        "Blend partially for a creamy texture.",
+        "Stir in the lemon juice and salt."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "budget-friendly"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Smoky Black Bean Soup",
+      "category": "Soups & Salads",
+      "cuisine": "Latin American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 tbsp oil",
+        "1 onion, diced",
+        "1 bell pepper, diced",
+        "3 cloves garlic, minced",
+        "2 tsp cumin",
+        "1 tsp smoked paprika",
+        "2 cans (15 oz) black beans, undrained",
+        "2 cups vegetable broth",
+        "Lime wedges, cilantro and sour cream for serving"
+      ],
+      "instructions": [
+        "Saute the onion and pepper in oil for 6 minutes, adding the garlic and spices for the last minute.",
+        "Add the beans with their liquid and the broth and simmer 20 minutes.",
+        "Mash or blend about half the soup for body.",
+        "Serve with lime, cilantro and sour cream."
+      ],
+      "tags": [
+        "vegetarian",
+        "budget-friendly",
+        "one-pot"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Roasted Butternut Squash Soup",
+      "category": "Soups & Salads",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 50,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 large butternut squash, peeled and cubed",
+        "2 tbsp olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic",
+        "4 cups vegetable broth",
+        "1/2 tsp nutmeg",
+        "1/2 cup coconut milk or cream",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Toss the squash with oil and roast at 425°F for 30 minutes until caramelized.",
+        "Saute the onion and garlic in a pot until soft.",
+        "Add the squash, broth and nutmeg and simmer 10 minutes.",
+        "Blend until smooth and stir in the coconut milk.",
+        "Season to taste and serve warm."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "fall"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Classic Caesar Salad",
+      "category": "Soups & Salads",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 heads romaine lettuce, chopped",
+        "2 cups bread cubes",
+        "1 tbsp olive oil",
+        "1/2 cup grated Parmesan",
+        "1/3 cup mayonnaise",
+        "2 tbsp lemon juice",
+        "1 tsp Dijon mustard",
+        "1 tsp Worcestershire sauce",
+        "1 clove garlic, minced"
+      ],
+      "instructions": [
+        "Toss the bread cubes with oil and bake at 375°F for 10 minutes until crisp.",
+        "Whisk the mayonnaise, lemon juice, mustard, Worcestershire, garlic and half the Parmesan.",
+        "Toss the romaine with the dressing.",
+        "Top with croutons and the remaining Parmesan."
+      ],
+      "tags": [
+        "vegetarian-friendly",
+        "classic",
+        "quick"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Greek Salad",
+      "category": "Soups & Salads",
+      "cuisine": "Greek",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 tomatoes, cut in wedges",
+        "1 cucumber, sliced",
+        "1/2 red onion, thinly sliced",
+        "1/2 cup Kalamata olives",
+        "6 oz feta cheese, cubed",
+        "3 tbsp olive oil",
+        "1 tbsp red wine vinegar",
+        "1 tsp dried oregano"
+      ],
+      "instructions": [
+        "Combine the tomatoes, cucumber, onion and olives in a bowl.",
+        "Whisk the oil, vinegar and oregano and pour over the salad.",
+        "Toss gently, top with the feta, and season with salt."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "no-cook"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Cobb Salad",
+      "category": "Soups & Salads",
+      "cuisine": "American",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "6 cups chopped romaine",
+        "2 cooked chicken breasts, diced",
+        "6 slices bacon, cooked and crumbled",
+        "4 hard-boiled eggs, chopped",
+        "2 avocados, diced",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup blue cheese crumbles",
+        "Ranch or vinaigrette for serving"
+      ],
+      "instructions": [
+        "Spread the romaine on a large platter.",
+        "Arrange rows of chicken, bacon, eggs, avocado, tomatoes and blue cheese on top.",
+        "Serve with dressing on the side."
+      ],
+      "tags": [
+        "high-protein",
+        "gluten-free",
+        "meal-prep"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Spaghetti Carbonara",
+      "category": "Pasta & Noodles",
+      "cuisine": "Italian",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "12 oz spaghetti",
+        "6 oz guanciale or pancetta, diced",
+        "4 large egg yolks plus 1 whole egg",
+        "1 cup grated Pecorino Romano",
+        "Black pepper to taste"
+      ],
+      "instructions": [
+        "Boil the spaghetti in salted water, reserving 1 cup of pasta water.",
+        "Cook the guanciale in a skillet over medium heat until crisp.",
+        "Whisk the eggs, cheese and plenty of black pepper.",
+        "Toss the drained pasta in the skillet off the heat, then stir in the egg mixture, adding pasta water a splash at a time until creamy.",
+        "Serve immediately with extra cheese."
+      ],
+      "tags": [
+        "classic",
+        "quick",
+        "weeknight"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Fettuccine Alfredo",
+      "category": "Pasta & Noodles",
+      "cuisine": "Italian",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "12 oz fettuccine",
+        "4 tbsp butter",
+        "1 1/2 cups heavy cream",
+        "2 cloves garlic, minced",
+        "1 1/2 cups grated Parmesan",
+        "1/4 tsp nutmeg",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Cook the fettuccine until al dente and drain.",
+        "Melt the butter in a large skillet and saute the garlic for 30 seconds.",
+        "Add the cream and simmer for 4 minutes until slightly thickened.",
+        "Stir in the Parmesan, nutmeg, salt and pepper until smooth.",
+        "Toss the pasta in the sauce and serve."
+      ],
+      "tags": [
+        "vegetarian",
+        "quick",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Spaghetti Bolognese",
+      "category": "Pasta & Noodles",
+      "cuisine": "Italian",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 60,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 lb ground beef",
+        "1/2 lb ground pork",
+        "1 onion, 1 carrot and 1 celery stalk, finely diced",
+        "3 cloves garlic, minced",
+        "2 tbsp tomato paste",
+        "1/2 cup red wine",
+        "1 can (28 oz) crushed tomatoes",
+        "1/2 cup milk",
+        "1 lb spaghetti"
+      ],
+      "instructions": [
+        "Brown the beef and pork in a large pot and drain excess fat.",
+        "Add the diced vegetables and cook 8 minutes, then add the garlic and tomato paste for 2 minutes.",
+        "Pour in the wine and let it reduce, then add the tomatoes and milk.",
+        "Simmer uncovered on low heat for 45 minutes, stirring occasionally.",
+        "Cook the spaghetti, toss with the sauce, and serve."
+      ],
+      "tags": [
+        "family-dinner",
+        "freezer-friendly",
+        "classic"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Penne Arrabbiata",
+      "category": "Pasta & Noodles",
+      "cuisine": "Italian",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "12 oz penne",
+        "3 tbsp olive oil",
+        "4 cloves garlic, sliced",
+        "1 tsp red pepper flakes",
+        "1 can (28 oz) crushed tomatoes",
+        "2 tbsp chopped parsley",
+        "Grated Pecorino for serving"
+      ],
+      "instructions": [
+        "Cook the penne until al dente.",
+        "Warm the oil with the garlic and pepper flakes for 1 minute.",
+        "Add the tomatoes and simmer 12 minutes until thickened.",
+        "Toss the pasta with the sauce and parsley.",
+        "Serve with Pecorino."
+      ],
+      "tags": [
+        "vegan-friendly",
+        "spicy",
+        "quick"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Basil Pesto Pasta",
+      "category": "Pasta & Noodles",
+      "cuisine": "Italian",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "12 oz fusilli",
+        "2 cups fresh basil leaves",
+        "1/3 cup pine nuts, toasted",
+        "1/2 cup grated Parmesan",
+        "2 cloves garlic",
+        "1/2 cup olive oil",
+        "1 cup cherry tomatoes, halved"
+      ],
+      "instructions": [
+        "Cook the pasta in salted water, reserving 1/2 cup of the water.",
+        "Blend the basil, pine nuts, Parmesan, garlic and oil into a pesto.",
+        "Toss the drained pasta with the pesto, adding pasta water to loosen.",
+        "Fold in the tomatoes and serve."
+      ],
+      "tags": [
+        "vegetarian",
+        "quick"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Classic Meat Lasagna",
+      "category": "Pasta & Noodles",
+      "cuisine": "Italian",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 60,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        "12 lasagna noodles",
+        "1 lb ground beef",
+        "1 jar (24 oz) marinara sauce",
+        "15 oz ricotta",
+        "1 egg",
+        "3 cups shredded mozzarella",
+        "1/2 cup grated Parmesan",
+        "2 tbsp chopped parsley"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F and boil the noodles until just tender.",
+        "Brown the beef, drain, and stir in the marinara.",
+        "Mix the ricotta, egg, parsley and half the Parmesan.",
+        "Layer sauce, noodles, ricotta mixture and mozzarella in a 9x13 dish, repeating to make three layers and finishing with cheese.",
+        "Cover with foil and bake 40 minutes, then uncover and bake 15 more minutes. Rest 15 minutes before cutting."
+      ],
+      "tags": [
+        "family-dinner",
+        "make-ahead",
+        "crowd-pleaser"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Stovetop Mac and Cheese",
+      "category": "Pasta & Noodles",
+      "cuisine": "American",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "12 oz elbow macaroni",
+        "3 tbsp butter",
+        "3 tbsp flour",
+        "2 1/2 cups milk",
+        "2 cups shredded sharp cheddar",
+        "1/2 cup shredded Gruyere",
+        "1/2 tsp mustard powder",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Cook the macaroni until al dente and drain.",
+        "Melt the butter, whisk in the flour, and cook 1 minute.",
+        "Gradually whisk in the milk and simmer until thickened, about 5 minutes.",
+        "Off the heat, stir in the cheeses, mustard powder, salt and pepper.",
+        "Fold in the macaroni and serve."
+      ],
+      "tags": [
+        "vegetarian",
+        "kid-friendly",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Shrimp Pad Thai",
+      "category": "Pasta & Noodles",
+      "cuisine": "Thai",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "8 oz flat rice noodles",
+        "1 lb shrimp, peeled",
+        "3 tbsp tamarind paste or lime juice",
+        "3 tbsp fish sauce",
+        "2 tbsp brown sugar",
+        "2 eggs",
+        "2 cups bean sprouts",
+        "3 scallions, sliced",
+        "1/3 cup crushed peanuts",
+        "Lime wedges for serving"
+      ],
+      "instructions": [
+        "Soak the noodles in warm water until pliable, then drain.",
+        "Mix the tamarind, fish sauce and sugar for the sauce.",
+        "Stir-fry the shrimp in a hot wok for 2 minutes, then push aside and scramble the eggs.",
+        "Add the noodles and sauce and toss for 3 minutes.",
+        "Add the bean sprouts and scallions, then top with peanuts and lime."
+      ],
+      "tags": [
+        "street-food",
+        "quick"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Chicken Lo Mein",
+      "category": "Pasta & Noodles",
+      "cuisine": "Chinese",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "8 oz lo mein noodles",
+        "1 lb chicken breast, sliced thin",
+        "2 cups mixed stir-fry vegetables",
+        "3 tbsp soy sauce",
+        "1 tbsp oyster sauce",
+        "1 tsp sesame oil",
+        "2 cloves garlic, minced",
+        "1 tbsp oil"
+      ],
+      "instructions": [
+        "Cook the noodles per package directions and drain.",
+        "Stir-fry the chicken in oil until cooked through, then remove.",
+        "Cook the vegetables and garlic for 3 minutes.",
+        "Return the chicken and add the noodles, soy sauce, oyster sauce and sesame oil.",
+        "Toss until everything is heated through and coated."
+      ],
+      "tags": [
+        "weeknight",
+        "quick"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Cacio e Pepe",
+      "category": "Pasta & Noodles",
+      "cuisine": "Italian",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 15,
+      "servings": 2,
+      "difficulty": "Medium",
+      "ingredients": [
+        "8 oz spaghetti or tonnarelli",
+        "1 1/2 tsp coarsely cracked black pepper",
+        "1 cup finely grated Pecorino Romano",
+        "1 tbsp butter",
+        "Salt for the pasta water"
+      ],
+      "instructions": [
+        "Cook the pasta in a minimal amount of salted water until just shy of al dente.",
+        "Toast the pepper in a skillet for 1 minute, then add a ladle of pasta water.",
+        "Add the pasta to the skillet with the butter.",
+        "Off the heat, stir in the cheese with splashes of pasta water, tossing vigorously until a creamy sauce forms.",
+        "Serve immediately."
+      ],
+      "tags": [
+        "vegetarian",
+        "minimal-ingredients",
+        "quick"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Simple Roast Chicken",
+      "category": "Chicken & Poultry",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 75,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 whole chicken (4 lb)",
+        "2 tbsp softened butter",
+        "1 lemon, halved",
+        "4 cloves garlic",
+        "1 tbsp salt",
+        "1 tsp black pepper",
+        "Fresh thyme sprigs",
+        "1 lb potatoes and carrots, chopped"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F and pat the chicken very dry.",
+        "Rub with butter, salt and pepper and stuff the cavity with the lemon, garlic and thyme.",
+        "Place on the vegetables in a roasting pan.",
+        "Roast 70-80 minutes until the thickest part of the thigh reaches 165°F.",
+        "Rest 15 minutes before carving."
+      ],
+      "tags": [
+        "classic",
+        "family-dinner",
+        "gluten-free"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Chicken Parmesan",
+      "category": "Chicken & Poultry",
+      "cuisine": "Italian",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "4 boneless chicken breasts, pounded thin",
+        "1 cup breadcrumbs",
+        "1/2 cup grated Parmesan",
+        "2 eggs, beaten",
+        "1/2 cup flour",
+        "2 cups marinara sauce",
+        "1 1/2 cups shredded mozzarella",
+        "Olive oil for frying"
+      ],
+      "instructions": [
+        "Dredge the chicken in flour, then egg, then the breadcrumbs mixed with Parmesan.",
+        "Fry in oil for 3 minutes per side until golden.",
+        "Place in a baking dish, top with marinara and mozzarella.",
+        "Bake at 400°F for 15 minutes until the cheese is bubbling."
+      ],
+      "tags": [
+        "family-dinner",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Chicken Tikka Masala",
+      "category": "Chicken & Poultry",
+      "cuisine": "Indian",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 1/2 lb chicken thighs, cubed",
+        "1/2 cup plain yogurt",
+        "2 tbsp garam masala",
+        "1 tbsp oil",
+        "1 onion, diced",
+        "4 cloves garlic and 1 tbsp grated ginger",
+        "1 can (15 oz) tomato sauce",
+        "1/2 cup heavy cream",
+        "Cilantro and basmati rice for serving"
+      ],
+      "instructions": [
+        "Marinate the chicken in yogurt and half the garam masala for at least 30 minutes.",
+        "Sear the chicken in oil until browned and set aside.",
+        "Saute the onion, garlic and ginger, add the remaining garam masala, then the tomato sauce.",
+        "Simmer 10 minutes, return the chicken, and cook 10 minutes more.",
+        "Stir in the cream and serve over rice with cilantro."
+      ],
+      "tags": [
+        "curry",
+        "gluten-free",
+        "crowd-pleaser"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Lemon Herb Grilled Chicken",
+      "category": "Chicken & Poultry",
+      "cuisine": "Mediterranean",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 chicken breasts",
+        "1/4 cup olive oil",
+        "3 tbsp lemon juice",
+        "3 cloves garlic, minced",
+        "1 tbsp chopped rosemary",
+        "1 tbsp chopped oregano",
+        "1 tsp salt"
+      ],
+      "instructions": [
+        "Whisk the oil, lemon juice, garlic, herbs and salt and add the chicken.",
+        "Marinate 30 minutes to 4 hours.",
+        "Grill over medium-high heat 6-7 minutes per side until it reaches 165°F.",
+        "Rest 5 minutes before slicing."
+      ],
+      "tags": [
+        "gluten-free",
+        "high-protein",
+        "summer"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Sheet Pan Chicken Fajitas",
+      "category": "Chicken & Poultry",
+      "cuisine": "Tex-Mex",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 lb chicken breast, sliced into strips",
+        "3 bell peppers, sliced",
+        "1 onion, sliced",
+        "2 tbsp olive oil",
+        "2 tbsp fajita seasoning",
+        "8 flour tortillas",
+        "Lime, sour cream and salsa for serving"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F.",
+        "Toss the chicken, peppers and onion with oil and fajita seasoning on a sheet pan.",
+        "Roast 20-25 minutes, stirring once, until the chicken is cooked through.",
+        "Serve in warm tortillas with lime, sour cream and salsa."
+      ],
+      "tags": [
+        "sheet-pan",
+        "weeknight",
+        "family-dinner"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Chicken Teriyaki",
+      "category": "Chicken & Poultry",
+      "cuisine": "Japanese",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 lb boneless chicken thighs",
+        "1/4 cup soy sauce",
+        "1/4 cup mirin",
+        "2 tbsp brown sugar",
+        "1 tbsp rice vinegar",
+        "1 tsp grated ginger",
+        "1 tsp cornstarch mixed with 1 tbsp water",
+        "Sesame seeds and steamed rice for serving"
+      ],
+      "instructions": [
+        "Simmer the soy sauce, mirin, sugar, vinegar and ginger for 3 minutes.",
+        "Sear the chicken in a skillet 5 minutes per side until cooked through.",
+        "Pour in the sauce and add the cornstarch slurry, cooking 2 minutes until glossy.",
+        "Slice the chicken and serve over rice with sesame seeds."
+      ],
+      "tags": [
+        "weeknight",
+        "kid-friendly"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Honey Garlic Chicken Thighs",
+      "category": "Chicken & Poultry",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "8 bone-in chicken thighs",
+        "1/3 cup honey",
+        "1/4 cup soy sauce",
+        "5 cloves garlic, minced",
+        "1 tbsp apple cider vinegar",
+        "1 tbsp oil",
+        "Chopped scallions for garnish"
+      ],
+      "instructions": [
+        "Season the thighs with salt and pepper and sear skin-side down in an oven-safe skillet for 6 minutes.",
+        "Flip, and pour in the honey, soy sauce, garlic and vinegar.",
+        "Bake at 400°F for 20-25 minutes until the chicken reaches 175°F.",
+        "Spoon the sauce over the top and garnish with scallions."
+      ],
+      "tags": [
+        "one-pan",
+        "weeknight"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Chicken Enchiladas",
+      "category": "Chicken & Poultry",
+      "cuisine": "Mexican",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "3 cups shredded cooked chicken",
+        "10 corn tortillas",
+        "2 cups red enchilada sauce",
+        "2 cups shredded Mexican cheese blend",
+        "1/2 cup diced onion",
+        "1 can (4 oz) diced green chiles",
+        "Sour cream and cilantro for serving"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F and spread a little sauce in a baking dish.",
+        "Mix the chicken, half the cheese, onion and chiles.",
+        "Warm the tortillas, fill each with the chicken mixture, roll, and place seam-side down.",
+        "Pour the remaining sauce over the top and sprinkle with the remaining cheese.",
+        "Bake 20-25 minutes until bubbly."
+      ],
+      "tags": [
+        "family-dinner",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Chicken Marsala",
+      "category": "Chicken & Poultry",
+      "cuisine": "Italian",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "4 chicken cutlets, pounded thin",
+        "1/2 cup flour",
+        "3 tbsp olive oil",
+        "8 oz cremini mushrooms, sliced",
+        "2 cloves garlic, minced",
+        "3/4 cup Marsala wine",
+        "3/4 cup chicken broth",
+        "2 tbsp butter",
+        "Chopped parsley"
+      ],
+      "instructions": [
+        "Dredge the chicken in seasoned flour and brown in oil, 3 minutes per side. Remove.",
+        "Saute the mushrooms until golden, then add the garlic.",
+        "Add the Marsala and broth and simmer 8 minutes until reduced by half.",
+        "Swirl in the butter, return the chicken, and cook 3 minutes.",
+        "Garnish with parsley."
+      ],
+      "tags": [
+        "restaurant-style",
+        "date-night"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Crispy Baked Chicken Tenders",
+      "category": "Chicken & Poultry",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 lb chicken tenders",
+        "1/2 cup flour",
+        "2 eggs, beaten",
+        "1 1/2 cups panko breadcrumbs",
+        "1/2 tsp garlic powder",
+        "1/2 tsp paprika",
+        "Cooking spray",
+        "Honey mustard for dipping"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F and place a wire rack on a baking sheet.",
+        "Mix the panko with the garlic powder, paprika, salt and pepper.",
+        "Coat the chicken in flour, then egg, then the panko.",
+        "Arrange on the rack and spray lightly with cooking spray.",
+        "Bake 18-20 minutes until golden and cooked through."
+      ],
+      "tags": [
+        "kid-friendly",
+        "baked"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Ground Beef Tacos",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "Mexican",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 lb ground beef",
+        "1 packet or 2 tbsp taco seasoning",
+        "1/3 cup water",
+        "8 taco shells",
+        "1 cup shredded lettuce",
+        "1 cup shredded cheese",
+        "1 diced tomato",
+        "Salsa and sour cream"
+      ],
+      "instructions": [
+        "Brown the beef in a skillet and drain the fat.",
+        "Stir in the taco seasoning and water and simmer 5 minutes.",
+        "Warm the taco shells according to package directions.",
+        "Fill with beef and top with lettuce, cheese, tomato, salsa and sour cream."
+      ],
+      "tags": [
+        "weeknight",
+        "kid-friendly",
+        "quick"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Juicy Cheeseburgers",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 lb ground beef (80/20)",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "4 slices cheddar or American cheese",
+        "4 burger buns, toasted",
+        "Lettuce, tomato, pickles and onion",
+        "Ketchup, mustard and mayo"
+      ],
+      "instructions": [
+        "Divide the beef into four loosely formed patties and press a shallow dimple into each center.",
+        "Season generously with salt and pepper.",
+        "Cook on a hot grill or skillet for 4 minutes per side.",
+        "Add the cheese in the last minute to melt.",
+        "Serve on toasted buns with your favorite toppings."
+      ],
+      "tags": [
+        "grill",
+        "classic",
+        "family-dinner"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Classic Beef Stew",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "American",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 150,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        "2 lb beef chuck, cubed",
+        "2 tbsp flour",
+        "2 tbsp oil",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 tbsp tomato paste",
+        "4 cups beef broth",
+        "1 lb potatoes, cubed",
+        "3 carrots, sliced",
+        "2 bay leaves",
+        "1 tsp thyme"
+      ],
+      "instructions": [
+        "Toss the beef with flour, salt and pepper and brown in oil in batches.",
+        "Saute the onion and garlic, then stir in the tomato paste.",
+        "Return the beef, add the broth, bay leaves and thyme, and simmer covered for 1 1/2 hours.",
+        "Add the potatoes and carrots and cook 40 minutes more until tender.",
+        "Remove the bay leaves and adjust the seasoning."
+      ],
+      "tags": [
+        "comfort-food",
+        "one-pot",
+        "freezer-friendly"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Beef and Broccoli Stir-Fry",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "Chinese",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 lb flank steak, thinly sliced",
+        "3 tbsp soy sauce",
+        "1 tbsp cornstarch",
+        "3 cups broccoli florets",
+        "3 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "2 tbsp oyster sauce",
+        "1 tbsp brown sugar",
+        "2 tbsp oil"
+      ],
+      "instructions": [
+        "Toss the beef with 1 tbsp soy sauce and the cornstarch.",
+        "Sear the beef in a hot wok in 1 tbsp oil for 2 minutes and remove.",
+        "Stir-fry the broccoli, garlic and ginger for 3 minutes with a splash of water.",
+        "Add the remaining soy sauce, oyster sauce and sugar.",
+        "Return the beef, toss for 1 minute, and serve over rice."
+      ],
+      "tags": [
+        "weeknight",
+        "quick"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Glazed Meatloaf",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 60,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 lb ground beef",
+        "1 cup breadcrumbs",
+        "1/2 cup milk",
+        "2 eggs",
+        "1 onion, finely diced",
+        "2 cloves garlic, minced",
+        "1 tbsp Worcestershire sauce",
+        "1/2 cup ketchup",
+        "2 tbsp brown sugar",
+        "1 tbsp apple cider vinegar"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F.",
+        "Soak the breadcrumbs in milk, then mix with the beef, eggs, onion, garlic, Worcestershire, salt and pepper.",
+        "Shape into a loaf in a baking dish.",
+        "Stir together the ketchup, brown sugar and vinegar and spread half over the loaf.",
+        "Bake 55-60 minutes, brushing with the remaining glaze near the end, until it reaches 160°F."
+      ],
+      "tags": [
+        "family-dinner",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Slow Cooker Pulled Pork",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 480,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 lb pork shoulder",
+        "2 tbsp brown sugar",
+        "1 tbsp smoked paprika",
+        "1 tbsp garlic powder",
+        "1 tbsp salt",
+        "1 tsp black pepper",
+        "1 cup barbecue sauce",
+        "1/2 cup chicken broth"
+      ],
+      "instructions": [
+        "Mix the sugar, paprika, garlic powder, salt and pepper and rub all over the pork.",
+        "Place in the slow cooker with the broth.",
+        "Cook on low for 8 hours until it falls apart.",
+        "Shred the meat, discard excess fat, and toss with the barbecue sauce.",
+        "Serve on buns with coleslaw."
+      ],
+      "tags": [
+        "slow-cooker",
+        "crowd-pleaser",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Garlic Butter Steak",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 12,
+      "servings": 2,
+      "difficulty": "Medium",
+      "ingredients": [
+        "2 ribeye or strip steaks (1-inch thick)",
+        "1 tbsp high-heat oil",
+        "3 tbsp butter",
+        "4 cloves garlic, smashed",
+        "3 sprigs thyme",
+        "Flaky salt and pepper"
+      ],
+      "instructions": [
+        "Let the steaks sit at room temperature for 30 minutes and season well with salt and pepper.",
+        "Sear in a very hot cast-iron skillet with oil for 3-4 minutes per side.",
+        "Reduce the heat, add the butter, garlic and thyme, and baste the steaks for 1-2 minutes.",
+        "Rest for 5 minutes, then slice against the grain."
+      ],
+      "tags": [
+        "date-night",
+        "high-protein",
+        "gluten-free"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Pan-Seared Pork Chops with Apples",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 bone-in pork chops",
+        "1 tbsp oil",
+        "2 apples, sliced",
+        "1 shallot, sliced",
+        "1/2 cup apple cider",
+        "1 tbsp Dijon mustard",
+        "1 tbsp butter",
+        "1 tsp fresh thyme"
+      ],
+      "instructions": [
+        "Season the chops with salt and pepper and sear in oil for 5 minutes per side until they reach 145°F. Remove.",
+        "Cook the apples and shallot in the same pan for 4 minutes.",
+        "Add the cider, mustard and thyme and simmer 3 minutes.",
+        "Swirl in the butter, return the chops, and spoon the apples over the top."
+      ],
+      "tags": [
+        "fall",
+        "weeknight",
+        "one-pan"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Lamb Kofta Kebabs",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "Middle Eastern",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 lb ground lamb",
+        "1/2 onion, grated",
+        "3 cloves garlic, minced",
+        "2 tbsp chopped parsley",
+        "1 tsp cumin",
+        "1 tsp coriander",
+        "1/2 tsp cinnamon",
+        "1 tsp salt",
+        "Yogurt sauce and pita for serving"
+      ],
+      "instructions": [
+        "Mix the lamb with the onion, garlic, parsley and spices.",
+        "Shape into elongated ovals around skewers.",
+        "Grill or broil 10-12 minutes, turning, until browned and cooked through.",
+        "Serve with yogurt sauce and warm pita."
+      ],
+      "tags": [
+        "grill",
+        "high-protein"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Korean Beef Bulgogi",
+      "category": "Beef, Pork & Lamb",
+      "cuisine": "Korean",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 lb ribeye, thinly sliced",
+        "1/4 cup soy sauce",
+        "2 tbsp brown sugar",
+        "1 tbsp sesame oil",
+        "4 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "1/2 Asian pear, grated",
+        "3 scallions, sliced",
+        "Steamed rice and sesame seeds"
+      ],
+      "instructions": [
+        "Mix the soy sauce, sugar, sesame oil, garlic, ginger and pear and marinate the beef for at least 30 minutes.",
+        "Heat a skillet over high heat.",
+        "Cook the beef in batches for 2-3 minutes until caramelized.",
+        "Top with scallions and sesame seeds and serve over rice."
+      ],
+      "tags": [
+        "quick",
+        "high-protein"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Baked Lemon Garlic Salmon",
+      "category": "Seafood",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 salmon fillets",
+        "3 tbsp melted butter",
+        "3 cloves garlic, minced",
+        "2 tbsp lemon juice",
+        "1 lemon, sliced",
+        "1 tbsp chopped parsley",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F and line a baking sheet.",
+        "Mix the butter, garlic and lemon juice.",
+        "Place the salmon on the sheet, season, and brush with the butter mixture.",
+        "Top with lemon slices and bake 12-15 minutes until it flakes easily.",
+        "Sprinkle with parsley."
+      ],
+      "tags": [
+        "gluten-free",
+        "high-protein",
+        "weeknight"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Garlic Butter Shrimp",
+      "category": "Seafood",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 8,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 lb large shrimp, peeled",
+        "4 tbsp butter",
+        "5 cloves garlic, minced",
+        "1/4 tsp red pepper flakes",
+        "2 tbsp lemon juice",
+        "2 tbsp chopped parsley"
+      ],
+      "instructions": [
+        "Melt half the butter in a large skillet over medium-high heat.",
+        "Add the shrimp in a single layer and cook 2 minutes per side.",
+        "Add the garlic and pepper flakes and cook 30 seconds.",
+        "Stir in the remaining butter, lemon juice and parsley and serve."
+      ],
+      "tags": [
+        "quick",
+        "gluten-free",
+        "keto"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Crispy Fish Tacos",
+      "category": "Seafood",
+      "cuisine": "Mexican",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 1/2 lb white fish such as cod, cut in strips",
+        "1/2 cup flour",
+        "1 tsp chili powder",
+        "1/2 cup beer or sparkling water",
+        "Oil for frying",
+        "8 small tortillas",
+        "2 cups shredded cabbage",
+        "1/2 cup sour cream mixed with 2 tbsp lime juice"
+      ],
+      "instructions": [
+        "Whisk the flour, chili powder, salt and beer into a batter.",
+        "Dip the fish in the batter and fry in 350°F oil for 3-4 minutes until golden.",
+        "Warm the tortillas.",
+        "Fill with fish, cabbage and lime crema."
+      ],
+      "tags": [
+        "crowd-pleaser",
+        "summer"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Shrimp Fried Rice",
+      "category": "Seafood",
+      "cuisine": "Chinese",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "3 cups cooked day-old rice",
+        "1 lb shrimp, peeled",
+        "2 eggs, beaten",
+        "1 cup frozen peas and carrots",
+        "3 scallions, sliced",
+        "3 tbsp soy sauce",
+        "1 tsp sesame oil",
+        "2 tbsp oil"
+      ],
+      "instructions": [
+        "Cook the shrimp in 1 tbsp hot oil for 2 minutes and set aside.",
+        "Scramble the eggs in the pan and push aside.",
+        "Add the remaining oil, rice and vegetables and stir-fry for 4 minutes.",
+        "Return the shrimp, add the soy sauce, sesame oil and scallions, and toss to combine."
+      ],
+      "tags": [
+        "quick",
+        "weeknight",
+        "leftover-friendly"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Maryland Crab Cakes",
+      "category": "Seafood",
+      "cuisine": "American",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 10,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 lb lump crab meat",
+        "1/2 cup panko breadcrumbs",
+        "1/4 cup mayonnaise",
+        "1 egg",
+        "1 tsp Dijon mustard",
+        "1 tsp Old Bay seasoning",
+        "2 tbsp chopped parsley",
+        "2 tbsp butter or oil",
+        "Lemon wedges for serving"
+      ],
+      "instructions": [
+        "Gently fold the crab with the panko, mayonnaise, egg, mustard, Old Bay and parsley.",
+        "Form into 8 patties and chill for 30 minutes.",
+        "Pan-fry in butter for 4-5 minutes per side until golden.",
+        "Serve with lemon wedges."
+      ],
+      "tags": [
+        "date-night",
+        "party"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Miso-Glazed Cod",
+      "category": "Seafood",
+      "cuisine": "Japanese",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 cod fillets",
+        "3 tbsp white miso",
+        "2 tbsp mirin",
+        "1 tbsp sake or water",
+        "1 tbsp sugar",
+        "1 tsp soy sauce",
+        "Sliced scallions for garnish"
+      ],
+      "instructions": [
+        "Whisk the miso, mirin, sake, sugar and soy sauce until smooth.",
+        "Coat the cod and marinate for at least 30 minutes, up to overnight.",
+        "Wipe off excess marinade and broil for 8-10 minutes until caramelized and flaky.",
+        "Garnish with scallions."
+      ],
+      "tags": [
+        "quick",
+        "high-protein"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Seared Scallops with Lemon Butter",
+      "category": "Seafood",
+      "cuisine": "French",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 6,
+      "servings": 2,
+      "difficulty": "Medium",
+      "ingredients": [
+        "8 large sea scallops, patted very dry",
+        "1 tbsp high-heat oil",
+        "3 tbsp butter",
+        "2 cloves garlic, minced",
+        "2 tbsp lemon juice",
+        "1 tbsp chopped parsley"
+      ],
+      "instructions": [
+        "Season the scallops with salt and pepper.",
+        "Sear in a very hot skillet with oil for about 2 minutes per side until deeply golden.",
+        "Lower the heat, add the butter and garlic, and baste for 30 seconds.",
+        "Finish with lemon juice and parsley."
+      ],
+      "tags": [
+        "date-night",
+        "gluten-free",
+        "quick"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Coconut Shrimp Curry",
+      "category": "Seafood",
+      "cuisine": "Thai",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 lb shrimp, peeled",
+        "1 tbsp oil",
+        "2 tbsp red curry paste",
+        "1 can (14 oz) coconut milk",
+        "1 cup chicken or vegetable broth",
+        "1 red bell pepper, sliced",
+        "1 tbsp fish sauce",
+        "1 tsp sugar",
+        "Lime juice, basil and jasmine rice"
+      ],
+      "instructions": [
+        "Fry the curry paste in oil for 1 minute.",
+        "Add the coconut milk, broth, pepper, fish sauce and sugar and simmer 8 minutes.",
+        "Add the shrimp and cook 3-4 minutes until pink.",
+        "Finish with lime juice and basil and serve over rice."
+      ],
+      "tags": [
+        "gluten-free",
+        "weeknight",
+        "one-pot"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Chickpea Coconut Curry",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Indian",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 tbsp oil",
+        "1 onion, diced",
+        "3 cloves garlic and 1 tbsp ginger, minced",
+        "2 tbsp curry powder",
+        "1 can (14 oz) diced tomatoes",
+        "1 can (14 oz) coconut milk",
+        "2 cans (15 oz) chickpeas, drained",
+        "3 cups fresh spinach",
+        "Rice or naan for serving"
+      ],
+      "instructions": [
+        "Saute the onion until soft, then add the garlic, ginger and curry powder for 1 minute.",
+        "Add the tomatoes, coconut milk and chickpeas and simmer 15 minutes.",
+        "Stir in the spinach until wilted.",
+        "Season with salt and serve with rice or naan."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "one-pot",
+        "meal-prep"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Crispy Tofu Vegetable Stir-Fry",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Chinese",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "14 oz extra-firm tofu, pressed and cubed",
+        "2 tbsp cornstarch",
+        "3 tbsp oil",
+        "3 cups mixed vegetables (broccoli, peppers, snap peas)",
+        "3 tbsp soy sauce",
+        "1 tbsp maple syrup",
+        "1 tbsp rice vinegar",
+        "2 cloves garlic, minced"
+      ],
+      "instructions": [
+        "Toss the tofu with the cornstarch and fry in 2 tbsp oil until crisp on all sides. Remove.",
+        "Stir-fry the vegetables and garlic in the remaining oil for 4 minutes.",
+        "Add the soy sauce, maple syrup and vinegar.",
+        "Return the tofu, toss to coat, and serve over rice."
+      ],
+      "tags": [
+        "vegan",
+        "weeknight"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Smoky Black Bean Burgers",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 cans (15 oz) black beans, drained and patted dry",
+        "1/2 cup breadcrumbs",
+        "1/2 cup cooked rice or oats",
+        "1 tsp cumin",
+        "1 tsp smoked paprika",
+        "2 cloves garlic, minced",
+        "2 tbsp ketchup",
+        "4 burger buns"
+      ],
+      "instructions": [
+        "Mash the beans, leaving some texture.",
+        "Mix in the breadcrumbs, rice, spices, garlic and ketchup.",
+        "Form into four patties and chill 15 minutes.",
+        "Cook in an oiled skillet for 5-6 minutes per side until crisp.",
+        "Serve on buns with your favorite toppings."
+      ],
+      "tags": [
+        "vegan-friendly",
+        "meal-prep",
+        "freezer-friendly"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Eggplant Parmesan",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Italian",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 40,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        "2 large eggplants, sliced 1/2-inch thick",
+        "1 cup flour",
+        "3 eggs, beaten",
+        "2 cups breadcrumbs",
+        "3 cups marinara sauce",
+        "2 cups shredded mozzarella",
+        "1/2 cup grated Parmesan",
+        "Fresh basil"
+      ],
+      "instructions": [
+        "Salt the eggplant slices, let sit 20 minutes, then pat dry.",
+        "Dredge in flour, egg, then breadcrumbs and bake at 425°F on oiled sheets for 20 minutes, flipping once.",
+        "Layer sauce, eggplant and cheeses in a baking dish.",
+        "Bake at 375°F for 20 minutes until bubbly and top with basil."
+      ],
+      "tags": [
+        "vegetarian",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Stuffed Bell Peppers",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "American",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "4 large bell peppers, tops removed",
+        "1 cup cooked rice",
+        "1 can (15 oz) black beans, drained",
+        "1 cup corn kernels",
+        "1 cup salsa",
+        "1 tsp cumin",
+        "1 cup shredded cheese"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F.",
+        "Mix the rice, beans, corn, salsa, cumin and half the cheese.",
+        "Fill the peppers and stand them in a baking dish with a splash of water in the bottom.",
+        "Cover with foil and bake 30 minutes, then uncover, top with cheese, and bake 10 more minutes."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Baked Falafel",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Middle Eastern",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 can (15 oz) chickpeas, drained and dried",
+        "1/2 onion, chopped",
+        "3 cloves garlic",
+        "1/2 cup parsley",
+        "1/4 cup cilantro",
+        "2 tsp cumin",
+        "1 tsp coriander",
+        "3 tbsp flour",
+        "1 tbsp olive oil",
+        "Pita, tahini sauce and salad for serving"
+      ],
+      "instructions": [
+        "Pulse the chickpeas, onion, garlic, herbs and spices in a food processor until coarse but holding together.",
+        "Stir in the flour and form into 12 patties.",
+        "Arrange on an oiled baking sheet and brush with oil.",
+        "Bake at 400°F for 25 minutes, flipping once, until golden.",
+        "Serve in pita with tahini sauce."
+      ],
+      "tags": [
+        "vegan",
+        "baked",
+        "meal-prep"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Palak Paneer",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Indian",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "10 oz fresh spinach",
+        "8 oz paneer, cubed",
+        "1 tbsp oil or ghee",
+        "1 onion, diced",
+        "3 cloves garlic and 1 tbsp ginger, minced",
+        "1 tsp garam masala",
+        "1/2 tsp turmeric",
+        "1/4 cup cream",
+        "1 tsp cumin seeds"
+      ],
+      "instructions": [
+        "Blanch the spinach for 1 minute, then blend smooth.",
+        "Toast the cumin seeds in oil, add the onion, garlic and ginger and cook until golden.",
+        "Add the garam masala and turmeric, then the spinach puree, and simmer 8 minutes.",
+        "Stir in the cream and paneer and heat through for 4 minutes.",
+        "Serve with rice or naan."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "curry"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Creamy Mushroom Risotto",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Italian",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 35,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 1/2 cups arborio rice",
+        "8 oz mushrooms, sliced",
+        "1 onion, finely diced",
+        "3 cloves garlic",
+        "1/2 cup dry white wine",
+        "5 cups warm vegetable broth",
+        "3 tbsp butter",
+        "1/2 cup grated Parmesan"
+      ],
+      "instructions": [
+        "Saute the mushrooms in 1 tbsp butter until golden and set aside.",
+        "Cook the onion in 1 tbsp butter until soft, add the garlic and rice, and toast 2 minutes.",
+        "Add the wine and stir until absorbed.",
+        "Add the broth one ladle at a time, stirring until each is absorbed, about 20-25 minutes total.",
+        "Stir in the mushrooms, remaining butter and Parmesan."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "date-night"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Margherita Pizza",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Italian",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 12,
+      "servings": 2,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 lb pizza dough",
+        "1/2 cup crushed tomatoes",
+        "8 oz fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "1 tbsp olive oil",
+        "Flour and cornmeal for the pan",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 500°F with a pizza stone or baking sheet inside.",
+        "Stretch the dough into a 12-inch round on a floured surface.",
+        "Top with the tomatoes seasoned with salt, then the mozzarella.",
+        "Bake 10-12 minutes until the crust is blistered and the cheese is bubbling.",
+        "Finish with basil and a drizzle of olive oil."
+      ],
+      "tags": [
+        "vegetarian",
+        "classic",
+        "crowd-pleaser"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Sweet Potato and Black Bean Tacos",
+      "category": "Vegetarian & Vegan",
+      "cuisine": "Mexican",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 sweet potatoes, cubed",
+        "1 tbsp olive oil",
+        "1 tsp cumin",
+        "1 tsp chili powder",
+        "1 can (15 oz) black beans, drained",
+        "8 small tortillas",
+        "1 avocado, sliced",
+        "Lime, cilantro and crumbled cotija"
+      ],
+      "instructions": [
+        "Toss the sweet potatoes with oil, cumin, chili powder and salt.",
+        "Roast at 425°F for 25 minutes, stirring once.",
+        "Warm the beans and tortillas.",
+        "Fill the tortillas with sweet potato and beans and top with avocado, cilantro, lime and cheese."
+      ],
+      "tags": [
+        "vegetarian",
+        "vegan-friendly",
+        "weeknight"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Garlic Mashed Potatoes",
+      "category": "Sides",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 1/2 lb Yukon Gold potatoes, peeled and cubed",
+        "4 cloves garlic",
+        "4 tbsp butter",
+        "3/4 cup warm milk",
+        "1 tsp salt",
+        "Black pepper and chives"
+      ],
+      "instructions": [
+        "Boil the potatoes and garlic in salted water for 20 minutes until very tender.",
+        "Drain well and return to the pot.",
+        "Mash with the butter, then stir in the warm milk until creamy.",
+        "Season with salt, pepper and chives."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "holiday"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Simple Roasted Vegetables",
+      "category": "Sides",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 cups broccoli florets",
+        "2 carrots, sliced",
+        "1 zucchini, sliced",
+        "1 red onion, wedged",
+        "3 tbsp olive oil",
+        "1 tsp garlic powder",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F.",
+        "Toss the vegetables with the oil, garlic powder, salt and pepper.",
+        "Spread in a single layer on a sheet pan.",
+        "Roast 25-30 minutes, stirring once, until browned at the edges."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "meal-prep"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Cilantro Lime Rice",
+      "category": "Sides",
+      "cuisine": "Mexican",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 cups long-grain white rice",
+        "1 tbsp butter or oil",
+        "2 3/4 cups water",
+        "1/2 tsp salt",
+        "3 tbsp lime juice",
+        "1/4 cup chopped cilantro"
+      ],
+      "instructions": [
+        "Rinse the rice and toast it in the butter for 1 minute.",
+        "Add the water and salt, bring to a boil, then cover and simmer on low for 15 minutes.",
+        "Rest 5 minutes covered and fluff with a fork.",
+        "Stir in the lime juice and cilantro."
+      ],
+      "tags": [
+        "vegan-friendly",
+        "gluten-free",
+        "quick"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Honey Glazed Carrots",
+      "category": "Sides",
+      "cuisine": "American",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 lb carrots, sliced",
+        "2 tbsp butter",
+        "2 tbsp honey",
+        "1/4 cup water",
+        "1/2 tsp salt",
+        "1 tbsp chopped parsley"
+      ],
+      "instructions": [
+        "Add the carrots, butter, honey, water and salt to a skillet.",
+        "Cover and simmer for 8 minutes until nearly tender.",
+        "Uncover and cook 4-5 more minutes until the liquid becomes a glaze.",
+        "Top with parsley."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "holiday"
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Creamy Coleslaw",
+      "category": "Sides",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 small head green cabbage, shredded",
+        "2 carrots, grated",
+        "1/2 cup mayonnaise",
+        "2 tbsp apple cider vinegar",
+        "1 tbsp sugar",
+        "1 tsp celery seed",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Whisk the mayonnaise, vinegar, sugar, celery seed, salt and pepper.",
+        "Toss with the cabbage and carrots.",
+        "Chill at least 30 minutes before serving."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "picnic"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Crispy Roasted Potatoes",
+      "category": "Sides",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 45,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 lb baby potatoes, halved",
+        "3 tbsp olive oil",
+        "1 tsp garlic powder",
+        "1 tsp paprika",
+        "1 tsp salt",
+        "Chopped rosemary"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F with a baking sheet inside.",
+        "Parboil the potatoes in salted water for 8 minutes and drain.",
+        "Toss with the oil and spices.",
+        "Spread on the hot sheet cut-side down and roast for 35 minutes until deeply golden, flipping once.",
+        "Top with rosemary."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "crowd-pleaser"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Chewy Chocolate Chip Cookies",
+      "category": "Desserts",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "servings": 24,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup butter, melted and cooled",
+        "1 cup brown sugar",
+        "1/2 cup sugar",
+        "2 eggs",
+        "2 tsp vanilla",
+        "2 cups chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F.",
+        "Whisk the flour, baking soda and salt.",
+        "Beat the butter, both sugars, eggs and vanilla together, then stir in the dry ingredients and chocolate chips.",
+        "Scoop onto baking sheets and bake 10-12 minutes until the edges are set.",
+        "Cool on the pan for 5 minutes."
+      ],
+      "tags": [
+        "vegetarian",
+        "classic",
+        "kid-friendly"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Fudgy Brownies",
+      "category": "Desserts",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "servings": 16,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1/2 cup butter",
+        "1 cup sugar",
+        "2 eggs",
+        "1 tsp vanilla",
+        "1/3 cup cocoa powder",
+        "1/2 cup flour",
+        "1/4 tsp salt",
+        "1/2 cup chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F and line an 8-inch pan.",
+        "Melt the butter and stir in the sugar, eggs and vanilla.",
+        "Fold in the cocoa, flour and salt, then the chocolate chips.",
+        "Bake 28-30 minutes until a toothpick shows moist crumbs.",
+        "Cool completely before cutting."
+      ],
+      "tags": [
+        "vegetarian",
+        "chocolate",
+        "classic"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Classic Tiramisu",
+      "category": "Desserts",
+      "cuisine": "Italian",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 0,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        "1 1/2 cups strong brewed espresso, cooled",
+        "3 tbsp coffee liqueur (optional)",
+        "24 ladyfingers",
+        "4 egg yolks",
+        "3/4 cup sugar",
+        "16 oz mascarpone",
+        "1 1/2 cups heavy cream",
+        "Cocoa powder for dusting"
+      ],
+      "instructions": [
+        "Whisk the egg yolks and sugar over simmering water until thick and pale, then cool.",
+        "Beat in the mascarpone until smooth.",
+        "Whip the cream to stiff peaks and fold into the mascarpone mixture.",
+        "Dip the ladyfingers briefly in the espresso and liqueur and layer in a dish.",
+        "Spread half the cream over them, repeat the layers, and chill at least 6 hours.",
+        "Dust with cocoa before serving."
+      ],
+      "tags": [
+        "vegetarian",
+        "make-ahead",
+        "no-bake"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Lemon Bars",
+      "category": "Desserts",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 45,
+      "servings": 16,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 cup butter, softened",
+        "1/2 cup powdered sugar",
+        "2 cups flour",
+        "4 eggs",
+        "1 1/2 cups sugar",
+        "2/3 cup lemon juice",
+        "Zest of 2 lemons",
+        "Powdered sugar for dusting"
+      ],
+      "instructions": [
+        "Mix the butter, powdered sugar and 2 cups of flour, press into a 9x13 pan, and bake at 350°F for 20 minutes.",
+        "Whisk the eggs, sugar, lemon juice, zest and 1/4 cup flour.",
+        "Pour over the hot crust and bake 20-25 minutes until set.",
+        "Cool completely, then dust with powdered sugar and cut."
+      ],
+      "tags": [
+        "vegetarian",
+        "potluck"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Warm Apple Crisp",
+      "category": "Desserts",
+      "cuisine": "American",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 45,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        "6 apples, peeled and sliced",
+        "1/4 cup sugar",
+        "1 tsp cinnamon",
+        "1 tbsp lemon juice",
+        "1 cup rolled oats",
+        "3/4 cup flour",
+        "3/4 cup brown sugar",
+        "1/2 cup cold butter, cubed"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F.",
+        "Toss the apples with the sugar, cinnamon and lemon juice in a baking dish.",
+        "Rub the oats, flour, brown sugar and butter together until crumbly.",
+        "Sprinkle over the apples and bake 40-45 minutes until bubbling and golden.",
+        "Serve warm with ice cream."
+      ],
+      "tags": [
+        "vegetarian",
+        "fall",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Chocolate Mousse",
+      "category": "Desserts",
+      "cuisine": "French",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 5,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        "6 oz bittersweet chocolate, chopped",
+        "3 tbsp butter",
+        "3 egg yolks",
+        "2 tbsp sugar",
+        "1 1/2 cups heavy cream",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Melt the chocolate and butter together and let cool slightly.",
+        "Whisk in the egg yolks, sugar and salt.",
+        "Whip the cream to soft peaks.",
+        "Gently fold the cream into the chocolate in two additions.",
+        "Spoon into glasses and chill at least 3 hours."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "date-night"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Vanilla Panna Cotta",
+      "category": "Desserts",
+      "cuisine": "Italian",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 5,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        "2 1/4 tsp unflavored gelatin",
+        "3 tbsp cold water",
+        "2 cups heavy cream",
+        "1 cup whole milk",
+        "1/3 cup sugar",
+        "1 vanilla bean or 2 tsp vanilla extract",
+        "Berry sauce for serving"
+      ],
+      "instructions": [
+        "Sprinkle the gelatin over the water and let bloom for 5 minutes.",
+        "Heat the cream, milk, sugar and vanilla until steaming but not boiling.",
+        "Whisk in the gelatin until fully dissolved.",
+        "Pour into ramekins and chill at least 4 hours.",
+        "Unmold or serve in the ramekins topped with berry sauce."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Creamy Rice Pudding",
+      "category": "Desserts",
+      "cuisine": "American",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 40,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1/2 cup short-grain rice",
+        "4 cups whole milk",
+        "1/3 cup sugar",
+        "1/4 tsp salt",
+        "1 tsp vanilla extract",
+        "1/2 tsp cinnamon",
+        "Raisins (optional)"
+      ],
+      "instructions": [
+        "Combine the rice, milk, sugar and salt in a saucepan and bring to a gentle simmer.",
+        "Cook on low heat for 35-40 minutes, stirring often, until thick and creamy.",
+        "Stir in the vanilla and raisins.",
+        "Serve warm or chilled, dusted with cinnamon."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Peanut Butter Cookies",
+      "category": "Desserts",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 10,
+      "servings": 18,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 cup creamy peanut butter",
+        "1/2 cup sugar",
+        "1/2 cup brown sugar",
+        "1 egg",
+        "1 tsp vanilla",
+        "1 tsp baking soda",
+        "1/4 tsp salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F.",
+        "Mix all the ingredients until a soft dough forms.",
+        "Roll into balls and place on a baking sheet.",
+        "Press with a fork in a crisscross pattern.",
+        "Bake 9-10 minutes and cool on the pan."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "easy"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "New York Cheesecake",
+      "category": "Desserts",
+      "cuisine": "American",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 75,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        "1 1/2 cups graham cracker crumbs",
+        "1/3 cup melted butter",
+        "32 oz cream cheese, room temperature",
+        "1 cup sugar",
+        "3 eggs",
+        "1 cup sour cream",
+        "1 tbsp lemon juice",
+        "2 tsp vanilla",
+        "3 tbsp flour"
+      ],
+      "instructions": [
+        "Mix the crumbs and butter, press into a 9-inch springform pan, and bake at 325°F for 10 minutes.",
+        "Beat the cream cheese and sugar until smooth, then add the eggs one at a time.",
+        "Mix in the sour cream, lemon juice, vanilla and flour.",
+        "Pour over the crust and bake 60-65 minutes until the edges are set and the center jiggles slightly.",
+        "Cool in the oven with the door ajar for 1 hour, then chill at least 6 hours."
+      ],
+      "tags": [
+        "vegetarian",
+        "special-occasion",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Fresh Squeezed Lemonade",
+      "category": "Drinks",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 5,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 cup fresh lemon juice (about 6 lemons)",
+        "3/4 cup sugar",
+        "1/2 cup hot water",
+        "4 cups cold water",
+        "Ice and lemon slices"
+      ],
+      "instructions": [
+        "Stir the sugar into the hot water until dissolved.",
+        "Combine with the lemon juice and cold water in a pitcher.",
+        "Taste and adjust the sweetness.",
+        "Serve over ice with lemon slices."
+      ],
+      "tags": [
+        "vegan",
+        "gluten-free",
+        "summer"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Iced Matcha Latte",
+      "category": "Drinks",
+      "cuisine": "Japanese",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "servings": 1,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 tsp matcha powder",
+        "2 tbsp hot water",
+        "1 cup cold milk of choice",
+        "1-2 tsp honey or maple syrup",
+        "Ice"
+      ],
+      "instructions": [
+        "Whisk the matcha with the hot water until smooth and frothy.",
+        "Stir in the sweetener.",
+        "Fill a glass with ice and milk.",
+        "Pour the matcha over the top."
+      ],
+      "tags": [
+        "vegetarian",
+        "quick",
+        "no-cook"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Mango Lassi",
+      "category": "Drinks",
+      "cuisine": "Indian",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 1/2 cups ripe mango chunks",
+        "1 cup plain yogurt",
+        "1/2 cup milk",
+        "1-2 tbsp honey",
+        "1/4 tsp cardamom",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Add all the ingredients to a blender.",
+        "Blend until smooth.",
+        "Taste, adjust the sweetness, and serve chilled."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "no-cook"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Rich Hot Chocolate",
+      "category": "Drinks",
+      "cuisine": "American",
+      "prep_time_minutes": 3,
+      "cook_time_minutes": 7,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        "2 cups whole milk",
+        "3 tbsp cocoa powder",
+        "3 tbsp sugar",
+        "2 oz dark chocolate, chopped",
+        "1/2 tsp vanilla",
+        "Whipped cream or marshmallows"
+      ],
+      "instructions": [
+        "Whisk the cocoa and sugar with a splash of milk in a saucepan to make a paste.",
+        "Add the remaining milk and heat until steaming.",
+        "Whisk in the chocolate until melted and add the vanilla.",
+        "Pour into mugs and top as desired."
+      ],
+      "tags": [
+        "vegetarian",
+        "gluten-free",
+        "winter"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Moist Banana Bread",
+      "category": "Baking & Bread",
+      "cuisine": "American",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 60,
+      "servings": 10,
+      "difficulty": "Easy",
+      "ingredients": [
+        "3 very ripe bananas, mashed",
+        "1/3 cup melted butter",
+        "3/4 cup sugar",
+        "1 egg",
+        "1 tsp vanilla",
+        "1 tsp baking soda",
+        "1/4 tsp salt",
+        "1 1/2 cups flour"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F and grease a loaf pan.",
+        "Mix the bananas with the butter, then stir in the sugar, egg and vanilla.",
+        "Sprinkle over the baking soda and salt, then fold in the flour until just combined.",
+        "Pour into the pan and bake 55-60 minutes until a toothpick comes out clean.",
+        "Cool 10 minutes in the pan before slicing."
+      ],
+      "tags": [
+        "vegetarian",
+        "breakfast",
+        "classic"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Sweet Skillet Cornbread",
+      "category": "Baking & Bread",
+      "cuisine": "American",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 22,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        "1 cup cornmeal",
+        "1 cup flour",
+        "1/3 cup sugar",
+        "1 tbsp baking powder",
+        "1/2 tsp salt",
+        "1 cup milk",
+        "2 eggs",
+        "1/3 cup melted butter, plus 1 tbsp for the skillet"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F with a 10-inch cast-iron skillet and 1 tbsp butter inside.",
+        "Whisk the dry ingredients.",
+        "Stir in the milk, eggs and melted butter until just combined.",
+        "Pour into the hot skillet and bake 20-22 minutes until golden.",
+        "Serve warm."
+      ],
+      "tags": [
+        "vegetarian",
+        "side-dish",
+        "comfort-food"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Rosemary Focaccia",
+      "category": "Baking & Bread",
+      "cuisine": "Italian",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "servings": 12,
+      "difficulty": "Medium",
+      "ingredients": [
+        "3 1/2 cups bread flour",
+        "2 tsp instant yeast",
+        "2 tsp salt",
+        "1 3/4 cups warm water",
+        "1/3 cup olive oil, divided",
+        "2 tbsp chopped rosemary",
+        "Flaky sea salt"
+      ],
+      "instructions": [
+        "Mix the flour, yeast, salt and water into a shaggy dough, cover, and rest 2 hours until doubled.",
+        "Pour 3 tbsp oil into a 9x13 pan and transfer the dough, stretching it to the edges.",
+        "Rest 45 minutes, then dimple deeply with your fingertips.",
+        "Drizzle with the remaining oil and sprinkle with rosemary and flaky salt.",
+        "Bake at 450°F for 22-25 minutes until golden."
+      ],
+      "tags": [
+        "vegan",
+        "bread",
+        "make-ahead"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Cinnamon Rolls",
+      "category": "Baking & Bread",
+      "cuisine": "American",
+      "prep_time_minutes": 45,
+      "cook_time_minutes": 25,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        "4 cups flour",
+        "1/4 cup sugar",
+        "2 1/4 tsp instant yeast",
+        "1 tsp salt",
+        "1 cup warm milk",
+        "1/4 cup melted butter",
+        "1 egg",
+        "1/2 cup soft butter and 3/4 cup brown sugar plus 2 tbsp cinnamon for filling",
+        "4 oz cream cheese, 2 tbsp butter and 1 cup powdered sugar for icing"
+      ],
+      "instructions": [
+        "Mix the flour, sugar, yeast and salt, then add the milk, melted butter and egg and knead for 8 minutes.",
+        "Let rise for 1 hour until doubled.",
+        "Roll into a 12x18-inch rectangle, spread with soft butter, and sprinkle with brown sugar and cinnamon.",
+        "Roll up tightly, slice into 12 rolls, and place in a greased pan. Rise 30 minutes.",
+        "Bake at 350°F for 22-25 minutes.",
+        "Beat the icing ingredients until smooth and spread over the warm rolls."
+      ],
+      "tags": [
+        "vegetarian",
+        "breakfast",
+        "special-occasion"
+      ]
+    }
+  ]
+}

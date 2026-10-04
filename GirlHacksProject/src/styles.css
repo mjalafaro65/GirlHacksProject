@@ -1,0 +1,200 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Design system — ENCHANTED GROVE
+ * Palette: deep forest, moss, parchment, soft gold, firefly glow.
+ * Fonts: Cormorant Garamond (headings), Inter (body).
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-forest: var(--forest);
+  --color-forest-dark: var(--forest-dark);
+  --color-moss: var(--moss);
+  --color-parchment: var(--parchment);
+  --color-parchment-dark: var(--parchment-dark);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-glow: var(--glow);
+  --color-ink: var(--ink);
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+:root {
+  --radius: 0.625rem;
+  --forest: oklch(0.331 0.049 156.2);
+  --forest-dark: oklch(0.26 0.034 155.5);
+  --moss: oklch(0.607 0.101 132.4);
+  --parchment: oklch(0.936 0.032 87.3);
+  --parchment-dark: oklch(0.88 0.04 87.3);
+  --gold: oklch(0.783 0.13 89.7);
+  --gold-soft: oklch(0.783 0.13 89.7 / 25%);
+  --glow: oklch(0.917 0.11 98.6);
+  --ink: oklch(0.291 0.036 140.1);
+
+  --background: var(--forest-dark);
+  --foreground: var(--parchment);
+  --card: var(--parchment);
+  --card-foreground: var(--ink);
+  --popover: var(--parchment);
+  --popover-foreground: var(--ink);
+  --primary: var(--gold);
+  --primary-foreground: var(--forest-dark);
+  --secondary: var(--moss);
+  --secondary-foreground: var(--parchment);
+  --muted: oklch(0.38 0.05 156);
+  --muted-foreground: oklch(0.82 0.05 110);
+  --accent: oklch(0.42 0.06 150);
+  --accent-foreground: var(--parchment);
+  --destructive: oklch(0.62 0.2 25);
+  --destructive-foreground: var(--parchment);
+  --border: oklch(0.936 0.032 87.3 / 18%);
+  --input: oklch(0.936 0.032 87.3 / 28%);
+  --ring: var(--gold);
+}
+
+.dark {
+  --background: var(--forest-dark);
+  --foreground: var(--parchment);
+  --card: var(--parchment);
+  --card-foreground: var(--ink);
+  --popover: var(--parchment);
+  --popover-foreground: var(--ink);
+  --primary: var(--gold);
+  --primary-foreground: var(--forest-dark);
+  --secondary: var(--moss);
+  --secondary-foreground: var(--parchment);
+  --muted: oklch(0.38 0.05 156);
+  --muted-foreground: oklch(0.82 0.05 110);
+  --accent: oklch(0.42 0.06 150);
+  --accent-foreground: var(--parchment);
+  --destructive: oklch(0.62 0.2 25);
+  --destructive-foreground: var(--parchment);
+  --border: oklch(0.936 0.032 87.3 / 18%);
+  --input: oklch(0.936 0.032 87.3 / 28%);
+  --ring: var(--gold);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+  }
+}
+
+/* ---------- Fireflies ---------- */
+
+@keyframes firefly-drift {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0.15;
+  }
+  25% {
+    opacity: 0.95;
+  }
+  50% {
+    transform: translate(calc(var(--dx) * 0.6), calc(var(--dy) * 0.4));
+    opacity: 0.35;
+  }
+  75% {
+    opacity: 0.9;
+  }
+  100% {
+    transform: translate(var(--dx), var(--dy));
+    opacity: 0.15;
+  }
+}
+
+.firefly {
+  position: absolute;
+  border-radius: 9999px;
+  background: var(--glow);
+  box-shadow: 0 0 8px 3px var(--gold-soft);
+  animation: firefly-drift var(--duration, 14s) ease-in-out var(--delay, 0s) infinite alternate;
+}
+
+/* ---------- Lanterns ---------- */
+
+@keyframes lantern-light {
+  from {
+    opacity: 0.15;
+    box-shadow: 0 0 0 0 transparent;
+  }
+  to {
+    opacity: 1;
+    box-shadow: 0 0 14px 4px var(--gold-soft);
+  }
+}
+
+.lantern {
+  opacity: 0.15;
+  animation: lantern-light 0.4s ease-out var(--delay, 0s) forwards;
+}
+
+@keyframes gentle-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-up {
+  animation: gentle-fade-up 0.35s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .firefly,
+  .lantern,
+  .fade-up {
+    animation: none !important;
+  }
+  .firefly {
+    opacity: 0.4;
+  }
+  .lantern {
+    opacity: 1;
+    box-shadow: 0 0 14px 4px var(--gold-soft);
+  }
+}

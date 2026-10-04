@@ -1,0 +1,315 @@
+{
+  "ingredients": [
+    {
+      "name": "gruyere cheese",
+      "aliases": [
+        "gruyere"
+      ],
+      "category": "dairy",
+      "est_price": 0.8
+    },
+    {
+      "name": "pecorino romano",
+      "aliases": [
+        "pecorino"
+      ],
+      "category": "dairy",
+      "est_price": 0.8
+    },
+    {
+      "name": "cotija cheese",
+      "aliases": [
+        "cotija"
+      ],
+      "category": "dairy",
+      "est_price": 0.6
+    },
+    {
+      "name": "mexican cheese blend",
+      "aliases": [
+        "shredded mexican cheese",
+        "mexican blend cheese"
+      ],
+      "category": "dairy",
+      "est_price": 0.6
+    },
+    {
+      "name": "paneer",
+      "aliases": [],
+      "category": "dairy",
+      "est_price": 1.0
+    },
+    {
+      "name": "ghee",
+      "aliases": [
+        "clarified butter"
+      ],
+      "category": "dairy",
+      "est_price": 0.3
+    },
+    {
+      "name": "burger buns",
+      "aliases": [
+        "hamburger buns",
+        "burger bun",
+        "hamburger bun",
+        "buns"
+      ],
+      "category": "bakery",
+      "est_price": 0.4
+    },
+    {
+      "name": "taco shells",
+      "aliases": [
+        "hard taco shells",
+        "taco shell"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "pizza dough",
+      "aliases": [],
+      "category": "bakery",
+      "est_price": 0.7
+    },
+    {
+      "name": "ladyfingers",
+      "aliases": [
+        "ladyfinger cookies",
+        "savoiardi"
+      ],
+      "category": "bakery",
+      "est_price": 0.7
+    },
+    {
+      "name": "graham cracker crumbs",
+      "aliases": [
+        "graham crackers",
+        "graham cracker"
+      ],
+      "category": "bakery",
+      "est_price": 0.3
+    },
+    {
+      "name": "stir-fry vegetables",
+      "aliases": [
+        "stir fry vegetables",
+        "mixed stir-fry vegetables",
+        "mixed stir fry vegetables"
+      ],
+      "category": "produce",
+      "est_price": 0.8
+    },
+    {
+      "name": "green chiles",
+      "aliases": [
+        "diced green chiles",
+        "green chilies",
+        "green chili"
+      ],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "red enchilada sauce",
+      "aliases": [
+        "enchilada sauce"
+      ],
+      "category": "pantry",
+      "est_price": 0.5
+    },
+    {
+      "name": "fajita seasoning",
+      "aliases": [],
+      "category": "spices",
+      "est_price": 0.2
+    },
+    {
+      "name": "taco seasoning",
+      "aliases": [
+        "taco seasoning packet"
+      ],
+      "category": "spices",
+      "est_price": 0.2
+    },
+    {
+      "name": "old bay seasoning",
+      "aliases": [
+        "old bay"
+      ],
+      "category": "spices",
+      "est_price": 0.15
+    },
+    {
+      "name": "red curry paste",
+      "aliases": [
+        "thai red curry paste"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "tamarind paste",
+      "aliases": [
+        "tamarind"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "barbecue sauce",
+      "aliases": [
+        "bbq sauce"
+      ],
+      "category": "pantry",
+      "est_price": 0.2
+    },
+    {
+      "name": "chicken cutlets",
+      "aliases": [
+        "chicken cutlet"
+      ],
+      "category": "meat",
+      "est_price": 1.5
+    },
+    {
+      "name": "chicken tenders",
+      "aliases": [
+        "chicken tenderloins",
+        "chicken tender"
+      ],
+      "category": "meat",
+      "est_price": 1.5
+    },
+    {
+      "name": "pork shoulder",
+      "aliases": [
+        "pork butt"
+      ],
+      "category": "meat",
+      "est_price": 1.2
+    },
+    {
+      "name": "marsala wine",
+      "aliases": [
+        "marsala"
+      ],
+      "category": "pantry",
+      "est_price": 0.6
+    },
+    {
+      "name": "coffee liqueur",
+      "aliases": [
+        "kahlua"
+      ],
+      "category": "pantry",
+      "est_price": 0.6
+    },
+    {
+      "name": "espresso",
+      "aliases": [
+        "strong brewed espresso",
+        "brewed espresso",
+        "strong brewed coffee"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "bittersweet chocolate",
+      "aliases": [
+        "semisweet chocolate"
+      ],
+      "category": "baking",
+      "est_price": 0.5
+    },
+    {
+      "name": "berry sauce",
+      "aliases": [],
+      "category": "pantry",
+      "est_price": 0.4
+    },
+    {
+      "name": "raisins",
+      "aliases": [
+        "raisin"
+      ],
+      "category": "pantry",
+      "est_price": 0.2
+    },
+    {
+      "name": "matcha powder",
+      "aliases": [
+        "matcha"
+      ],
+      "category": "pantry",
+      "est_price": 0.3
+    },
+    {
+      "name": "cooking spray",
+      "aliases": [
+        "nonstick spray",
+        "non-stick spray"
+      ],
+      "category": "pantry",
+      "est_price": 0.05
+    },
+    {
+      "name": "ice cubes",
+      "aliases": [
+        "ice",
+        "ice cube"
+      ],
+      "category": "pantry",
+      "est_price": 0
+    },
+    {
+      "name": "shredded cheese",
+      "aliases": [
+        "shredded cheese blend"
+      ],
+      "category": "dairy",
+      "est_price": 0.5
+    },
+    {
+      "name": "cooked chicken",
+      "aliases": [
+        "shredded cooked chicken",
+        "shredded chicken",
+        "rotisserie chicken"
+      ],
+      "category": "meat",
+      "est_price": 1.2
+    },
+    {
+      "name": "mixed berries",
+      "aliases": [
+        "berries",
+        "mixed berry",
+        "fresh berries"
+      ],
+      "category": "produce",
+      "est_price": 0.8
+    },
+    {
+      "name": "mixed vegetables",
+      "aliases": [
+        "vegetables",
+        "assorted vegetables"
+      ],
+      "category": "produce",
+      "est_price": 0.7
+    },
+    {
+      "name": "salad greens",
+      "aliases": [
+        "salad",
+        "mixed greens",
+        "mixed salad greens"
+      ],
+      "category": "produce",
+      "est_price": 0.6
+    }
+  ]
+}
